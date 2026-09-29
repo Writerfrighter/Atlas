@@ -1,0 +1,58 @@
+/* Tailwind v4: this single import pulls in all of Tailwind's styles. */
+@import "tailwindcss";
+
+/*
+  Class-based dark mode: `dark:` utilities apply whenever an ancestor
+  (we use <html>) has the `dark` class. ThemeProvider toggles that class.
+*/
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  /* Font (loaded from Google Fonts in index.html) */
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+
+  /*
+    Atlas brand colors — a blue scale. Use them like bg-brand-600,
+    text-brand-500, border-brand-200 ... Change these values to re-theme
+    the entire site.
+  */
+  --color-brand-50: #eff6ff;
+  --color-brand-100: #dbeafe;
+  --color-brand-200: #bfdbfe;
+  --color-brand-300: #93c5fd;
+  --color-brand-400: #60a5fa;
+  --color-brand-500: #3b82f6;
+  --color-brand-600: #2563eb;
+  --color-brand-700: #1d4ed8;
+  --color-brand-800: #1e40af;
+  --color-brand-900: #1e3a8a;
+  --color-brand-950: #172554;
+
+  /* Accent used in gradients and highlights (matches the logo's orbit) */
+  --color-accent-300: #67e8f9;
+  --color-accent-400: #22d3ee;
+  --color-accent-500: #06b6d4;
+}
+
+/* Faint grid lines used behind the hero section. */
+@utility bg-grid {
+  background-image:
+    linear-gradient(to right, rgb(37 99 235 / 0.07) 1px, transparent 1px),
+    linear-gradient(to bottom, rgb(37 99 235 / 0.07) 1px, transparent 1px);
+  background-size: 44px 44px;
+}
+
+html {
+  color-scheme: light;
+  /* Smoothly scroll to #section links */
+  scroll-behavior: smooth;
+  -webkit-font-smoothing: antialiased;
+}
+html.dark {
+  color-scheme: dark;
+}
+
+/* Blue text selection to match the theme */
+::selection {
+  background: rgb(59 130 246 / 0.25);
+}
