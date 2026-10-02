@@ -1,0 +1,1541 @@
+[
+  {
+    "rule": "I101",
+    "category": "I",
+    "number": 101,
+    "section": "3",
+    "section_name": "Competition Eligibility",
+    "pdf_page": 22,
+    "text": "I101 *Teams must be registered with FIRST. Teams must be “competition ready” in order to compete in \nFIRST Tech Challenge official events and earn MATCH points or be eligible for judged awards.  \nA. North America - competition ready requirements: \ni. complete annual registration process through the FIRST dashboard  \nii. pay annual registration fee \niii. 2 adults must be assigned in the Lead Coach 1/Lead Coach 2 roles and have passed \nYouth Protection Program (YPP) screening,  \niv. complete any additional Youth Protection screening requirements (may vary from \nregion to region), and \nv. register all youth team members on the FIRST dashboard. \nB. outside North America - competition ready requirements: \ni. complete annual registration process through the FIRST dashboard and  \nii. complete any additional requirements by the local FIRST Program Delivery Partner \nwith regards to program fees, registrations and youth protection screening. \nThe local Program Delivery Partner may, in rare cases, make exceptions for \ndelayed payment on a case-by-case basis. Teams who have not paid annual \nregistration fees will not earn any official season record and will not be allowed \nto advance."
+  },
+  {
+    "rule": "I102",
+    "category": "I",
+    "number": 102,
+    "section": "3",
+    "section_name": "Competition Eligibility",
+    "pdf_page": 22,
+    "text": "I102 *Check-in at the event on time. An adult team member must check-in at the Pit Administration station, \nor designated check-in location, no later than 45 minutes before Qualification MATCHES are scheduled \nto start, unless otherwise specified or approved by the Event Director. Check-in must be completed by a \nteam adult and at least one STUDENT must be present at the venue before check-in can be completed.  \nAdditional check-in requirements will vary by region but may require one or more of the following items:  \nA. A current, completed team roster from the team’s FIRST dashboard as specified by the local \nProgram Delivery Partner, \nB. local Program Delivery Partner team member registration or consent forms (varies by \nregion), \nC. a ROBOT built to specifications in Section 12 ROBOT Construction Rules (R), if they \nintend to participate in MATCHES, and  \nD. a printed team PORTFOLIO (optional, see Section 6 Awards (A)). \nTeams should be aware of the competition schedule and note any key activities \n(such as inspection or judging) that may occur prior to the check-in deadline. \nAll teams, regardless of how “ready” they think they are, are encouraged to \nparticipate in gameplay and judging. Teams are encouraged to reach out to their \nProgram Delivery Partner and other teams to request help getting their ROBOT \nready to compete before attending an event."
+  },
+  {
+    "rule": "I103",
+    "category": "I",
+    "number": 103,
+    "section": "3",
+    "section_name": "Competition Eligibility",
+    "pdf_page": 22,
+    "text": "I103 *A responsible adult must be present for the whole event. At least 1, preferably 2, adult(s) responsible \nfor the STUDENT team members must be present at all times during the event. Responsible adult(s) \nare recommended to be listed on the team roster."
+  },
+  {
+    "rule": "I301",
+    "category": "I",
+    "number": 301,
+    "section": "3",
+    "section_name": "Competition Eligibility",
+    "pdf_page": 24,
+    "text": "I301 *Bring the complete ROBOT and supporting equipment to inspection. Teams should present the \nROBOT and OPERATOR CONSOLE with all COMPONENTS, including decorative parts, that will be used \nduring MATCHES. Teams are not required to use all inspected COMPONENTS in every MATCH, but they \nshould not add any un-inspected COMPONENTS to the ROBOT without re-inspection. Teams should \ndemonstrate to INSPECTORS all ways the ROBOT will be configured for a MATCH."
+  },
+  {
+    "rule": "I302",
+    "category": "I",
+    "number": 302,
+    "section": "3",
+    "section_name": "Competition Eligibility",
+    "pdf_page": 24,
+    "text": "I302 *Certain limits apply to all configurations. The total number of electronics (motors, servos, Android \nDevices, etc.) used to build all MECHANISMS and base ROBOT, whether they are used on the ROBOT at \nthe same time or not, may not exceed the constraints specified in Section 12 ROBOT Construction \nRules (R)."
+  },
+  {
+    "rule": "I303",
+    "category": "I",
+    "number": 303,
+    "section": "3",
+    "section_name": "Competition Eligibility",
+    "pdf_page": 25,
+    "text": "I303 *Request re-inspection for most changes to the ROBOT. A team should request re-inspection when it \nmakes changes to a ROBOT that may cause it to not comply with safety and competition guidelines or \nwhen requested by the Head REFEREE or FTA. \nRe-inspection is generally not necessary for the scenarios listed below (unless they result in a \nsignificant change to the ROBOT’S size, legality, or safety): \nA. addition, relocation, or removal of fasteners (e.g., cable ties, tape, and rivets),  \nB. addition, relocation, or removal of labeling or marking, \nC. addition, relocation, or replacement of the team SIGN, \nD. revision of ROBOT code, \nE. replacement of a COMPONENT with an identical COMPONENT, \nF. replacement of a MECHANISM with an identical MECHANISM (size, weight, material), and \nG. additions, removals, or reconfiguration of ROBOT with a subset of MECHANISMS already \ninspected. \nAll teams should make a good faith effort to comply with ROBOT construction \nrules if they make changes to their ROBOT during an event. \nIf a team is unclear if reinspection is required, they should confirm with the LRI or \nFIELD STAFF. For example, if a team is unsure if reassembling a part changes \ntheir ROBOT’S size, they should have it checked."
+  },
+  {
+    "rule": "I304",
+    "category": "I",
+    "number": 304,
+    "section": "3",
+    "section_name": "Competition Eligibility",
+    "pdf_page": 25,
+    "text": "I304 *Do not exploit re-inspection. Teams may not use the re-inspection process to circumvent any other \nrules."
+  },
+  {
+    "rule": "E101",
+    "category": "E",
+    "number": 101,
+    "section": "5",
+    "section_name": "Event Rules (E)",
+    "pdf_page": 33,
+    "text": "E101 *Personal safety comes first. All team members must observe the following safety practices \nthroughout the event: \nA. wear safety glasses or safety rated glasses with side shields (ANSI-approved, UL Listed, CE \nEN166 rated, AS/NZS certified, or CSA rated) in specified areas. There is a 10-minute grace \nperiod when the venue opens each day of the event for teams to find and distribute safety \nglasses. \nClear or lightly tinted safety glasses are preferred. Shaded glasses are allowed \nfor those who need them and do not require a specific accommodation request. \nB. wear closed toed/heeled shoes, \nC. control entanglement risks by tying back long hair and removing other dangling decorations \nincluding lanyards, spirit wear, and rings as needed while working on or around a ROBOT or \nROBOT related materials or tools, \nD. wear appropriate clothing, \nE. walk in the venue, and \nF. comply with government and venue-specific health and safety requirements in place for that \nevent (i.e., mask wearing). \nTeams are responsible for bringing their own personal protective equipment.  \nFor more information about safety at FIRST events, please reference the FIRST \nSafety Manual."
+  },
+  {
+    "rule": "E102",
+    "category": "E",
+    "number": 102,
+    "section": "5",
+    "section_name": "Event Rules (E)",
+    "pdf_page": 33,
+    "text": "E102 *Be Respectful. All participants should follow the framework of behaviors listed in Section 1.4 \nThe Spirit of the Competition while attending a FIRST Tech Challenge event. Uncivil \nbehavior toward any participants is not tolerated."
+  },
+  {
+    "rule": "E103",
+    "category": "E",
+    "number": 103,
+    "section": "5",
+    "section_name": "Event Rules (E)",
+    "pdf_page": 34,
+    "text": "E103 *Children with adults, please. Children under 12 must be accompanied in the pits by an adult at \nall times."
+  },
+  {
+    "rule": "E104",
+    "category": "E",
+    "number": 104,
+    "section": "5",
+    "section_name": "Event Rules (E)",
+    "pdf_page": 34,
+    "text": "E104 *Respect the venue. Teams may not damage the venue, including but not limited to bleachers, \nfloors, walls, and railings, in any way. This includes littering with team giveaways including \ncandies, flyers, and stickers or items thrown from the stands."
+  },
+  {
+    "rule": "E105",
+    "category": "E",
+    "number": 105,
+    "section": "5",
+    "section_name": "Event Rules (E)",
+    "pdf_page": 34,
+    "text": "E105 *Event resources are for competing teams only. Only teams registered for an event may use that \nevent’s competition FIELD, practice FIELD, and inspection unless pre-approved by the Event \nDirector or the Program Delivery Partner. Host teams supplying practice FIELD elements and/or \nmachine shop resources may use them; however, teams registered for that event must be \ngranted priority."
+  },
+  {
+    "rule": "E106",
+    "category": "E",
+    "number": 106,
+    "section": "5",
+    "section_name": "Event Rules (E)",
+    "pdf_page": 34,
+    "text": "E106 *Practice only when/where permitted. Teams may only practice with their ROBOT in their pit \nspace, in the designated event practice areas, or while in a Practice MATCH.  \nTeams may not set up their own practice equipment outside their pit in other \nareas of the event venue. If the Event Director determines a pit practice setup is \nunsafe or interferes with activity in adjacent pits or aisles, the team must \ndiscontinue the activity. \nDemonstrating robot functionality to guests or JUDGES is not considered \npractice."
+  },
+  {
+    "rule": "E107",
+    "category": "E",
+    "number": 107,
+    "section": "5",
+    "section_name": "Event Rules (E)",
+    "pdf_page": 34,
+    "text": "E107 *Work in designated areas only. At the event venue, teams may only produce FABRICATED ITEMS as \nfollows:  \nA. in their pit area, \nB. in another team’s pit area with permission from that team,"
+  },
+  {
+    "rule": "E108",
+    "category": "E",
+    "number": 108,
+    "section": "5",
+    "section_name": "Event Rules (E)",
+    "pdf_page": 35,
+    "text": "E108 *Some things do not belong at events. Do not bring or use the following:  \nA. Skateboards, \nB. ‘hoverboards,’ \nC. drones, \nD. bottled gas tanks (e.g., helium), \nE. noisy devices or noisemakers, such as floor stompers, whistles and/or air horns, \nF. scooters, except for those used for accommodations. \nG. any item with bright lights which flash faster than approximately 5 times per second"
+  },
+  {
+    "rule": "E109",
+    "category": "E",
+    "number": 109,
+    "section": "5",
+    "section_name": "Event Rules (E)",
+    "pdf_page": 35,
+    "text": "E109 *Do not arrange for additional services or utilities. Do not arrange for power, internet access, or phone \nlines from venue service providers or attempt to use venue internet connections reserved for event \npurposes (e.g., FIRST event management software or webcasting)."
+  },
+  {
+    "rule": "E110",
+    "category": "E",
+    "number": 110,
+    "section": "5",
+    "section_name": "Event Rules (E)",
+    "pdf_page": 35,
+    "text": "E110 *Do not sell stuff. Teams may not conduct sales at an event. This includes, but is not limited to, raffle \ntickets, food, hats, shirts, candy, water, soft drinks, fruit, or any promotional products unless specifically \nallowed by the Event Director."
+  },
+  {
+    "rule": "E111",
+    "category": "E",
+    "number": 111,
+    "section": "5",
+    "section_name": "Event Rules (E)",
+    "pdf_page": 35,
+    "text": "E111 *No Loud Music. Do not invite or bring live bands to play in the audience. Do not play loud music."
+  },
+  {
+    "rule": "E112",
+    "category": "E",
+    "number": 112,
+    "section": "5",
+    "section_name": "Event Rules (E)",
+    "pdf_page": 35,
+    "text": "E112 *Hang banners with care. Be respectful when hanging your banners.  \nA. Do not cover or move other team or sponsor signs already in place. \nB. Share the available space fairly with other teams. \nC. Do not obstruct the view of spectators. \nD. Get permission from the Event Director before hanging banners outside of your pit.  \nE. Hang signs and banners in a safe manner. \nF. Banners hung outside team pits must not be larger than 25 ft.2 (~2.3 m2).  \nWe encourage teams to bring team flags and/or signs for display in their pits \nand/or the ARENA.  \nRespect venue-specific rules regarding sign location and hanging methods. At \nthe end of the event, safely remove all signs and anything used to hang the signs \n(tape, string, etc.)."
+  },
+  {
+    "rule": "E113",
+    "category": "E",
+    "number": 113,
+    "section": "5",
+    "section_name": "Event Rules (E)",
+    "pdf_page": 35,
+    "text": "E113 *Limit flag and flagpole size if used in the ARENA. Flags and flagpoles may not be of unreasonable \nsize and weight if they are going to be used around the FIELD.   \nAs a guideline, reasonable flags are less than 3 ft. by 5 ft. (~91 cm by 152 cm) in \nsize and weigh less than 2 lbs. (~907g). Reasonable flagpoles may not be more \nthan 8 ft. (~243 cm) long and must weigh less than 3 lbs. (~1360g)."
+  },
+  {
+    "rule": "E114",
+    "category": "E",
+    "number": 114,
+    "section": "5",
+    "section_name": "Event Rules (E)",
+    "pdf_page": 35,
+    "text": "E114 *No firearms or other weapons. Firearms or other weapons are prohibited at all FIRST events for all \nFIRST programs, including without limitation, all official FIRST Events posted here. This rule includes \nprop or simulated weapons which appear to be real. This policy does not apply to law enforcement or \nvenue security personnel."
+  },
+  {
+    "rule": "E115",
+    "category": "E",
+    "number": 115,
+    "section": "5",
+    "section_name": "Event Rules (E)",
+    "pdf_page": 36,
+    "text": "E115 *Inspection required for practice FIELD access. A team may only use a practice FIELD with a \nROBOT that has passed an initial, complete inspection. This rule only applies to events not using \nscheduled inspection times."
+  },
+  {
+    "rule": "E116",
+    "category": "E",
+    "number": 116,
+    "section": "5",
+    "section_name": "Event Rules (E)",
+    "pdf_page": 36,
+    "text": "E116 *Do not record anyone at the event without their consent. Do not record interactions with \nanyone at an event, without the person’s consent. FIRST event staff and volunteers are \nempowered to excuse themselves from an interaction in which they are being recorded after \ndeclining consent. \nPlease note that many FIRST events are livestreamed and FIRST participants \nhave given permission to appear in footage from FIRST. This does not mean that \npeople can record specific interactions without additional consent.  \nLaws regarding recording of conversations vary state-to-state and country-to \ncountry, and, in some cases, recording without consent may be criminal. \nIntroducing the idea of recording a conversation with an implied reason of \nproving someone’s error can escalate a discussion and is likely to increase its \nadversarial nature."
+  },
+  {
+    "rule": "E117",
+    "category": "E",
+    "number": 117,
+    "section": "5",
+    "section_name": "Event Rules (E)",
+    "pdf_page": 36,
+    "text": "E117 *Enter only 1 ROBOT in the tournament. At a given FIRST Tech Challenge event, each team may \nonly inspect and play MATCHES with 1 ROBOT. FIRST Tech Challenge teams may only \nparticipate in 1 concurrent event at a time. \nThe intent of this rule is to use tournament resources responsibly by not \nrequiring volunteers to inspect multiple ROBOTS and to prevent loopholes around \nhaving multiple inspected ROBOTS that can be switched out between MATCHES.  \nThis rule does not prohibit teams from bringing other ROBOTS or robot-like \nassemblies into the venue for other purposes such as awards presentations or \npit displays.  \nIt is expected that teams will update, make changes and even build multiple \nROBOTS during a season; this rule only applies to bringing multiple different \nROBOTS to a single event to play MATCHES."
+  },
+  {
+    "rule": "E118",
+    "category": "E",
+    "number": 118,
+    "section": "5",
+    "section_name": "Event Rules (E)",
+    "pdf_page": 36,
+    "text": "E118 *No saving seats. Teams are not permitted to save or designate seats for team members that are not \nactively using them.  \nTeams may not hang banners or ribbons or otherwise designate seating. (Event \nstaff will remove and discard any banners, roping, etc., used to designate \nseating.) Please take turns sitting in the bleachers/stands if seating is limited. If \nthere is a crowding problem, we ask that you kindly leave after your team's \nMATCH and return later, if possible. \nThe Event Director may reserve seats for attendees who require accessible \nseating, for certain volunteers, or to ensure teams in the Playoffs have seats to \nwatch their teams play.  \n5.2 Machine Shops and Host Team Build Spaces \nRarely, some events host a machine shop or open their team’s build space, during specific hours (see the \nevent public agenda), to help teams with repair and fabrication of their ROBOT. Machine shops are typically"
+  },
+  {
+    "rule": "E301",
+    "category": "E",
+    "number": 301,
+    "section": "5",
+    "section_name": "Event Rules (E)",
+    "pdf_page": 37,
+    "text": "E301 *No wireless communication. Teams may not set up their own Wi-Fi (802.11a/b/g/n/ac/ax/be) \nwireless communication (e.g., access points or ad-hoc networks), Bluetooth, or any other \ncommunications systems using 2.4GHz or 5GHz wireless in the venue. \nA wireless hot spot created by a cellular device, camera, smart TV, etc. is \nconsidered an access point. \nSome smart TVs have access points enabled by factory default. Please make \nsure that functionality is disabled for any TVs brought to the event. \nBluetooth uses 2.4GHz frequencies to communicate which can interfere with \nvenue and ROBOT systems.  \nMany R/C toys (including drones, wireless vehicles, FPV systems) use 2.4GHz \nand 5GHz communications. Do not operate these in the venue."
+  },
+  {
+    "rule": "E302",
+    "category": "E",
+    "number": 302,
+    "section": "5",
+    "section_name": "Event Rules (E)",
+    "pdf_page": 37,
+    "text": "E302 *Don’t interfere with wireless networks. Participants may not interfere, attempt to interfere, or attempt \nto connect with any other team or FIRST wireless network without expressed permission.  \nTeams are encouraged to report suspected wireless security vulnerabilities to \nthe FIRST Technical Advisor (FTA) or Event Director if at the event or to FIRST via \ncustomerservice@firstinspires.org to report a suspected issue after the event."
+  },
+  {
+    "rule": "E501",
+    "category": "E",
+    "number": 501,
+    "section": "5",
+    "section_name": "Event Rules (E)",
+    "pdf_page": 38,
+    "text": "E501 *Pits are unavailable if closed. Teams may not access their pit area outside the designated \nhours."
+  },
+  {
+    "rule": "E502",
+    "category": "E",
+    "number": 502,
+    "section": "5",
+    "section_name": "Event Rules (E)",
+    "pdf_page": 38,
+    "text": "E502 *Pit set ups should be self-contained within the space assigned by the Event Organizers. \nTeams should set up their allowed equipment fully within their assigned pit space. Teams may \nnot: \nA. run power or internet lines from their team pit to any other area except as instructed or \nallowed by the Event Director, \nB. swap team pits with other teams if pits have assigned team numbers, or  \nC. move themselves to empty team pits without Event Director approval."
+  },
+  {
+    "rule": "E503",
+    "category": "E",
+    "number": 503,
+    "section": "5",
+    "section_name": "Event Rules (E)",
+    "pdf_page": 38,
+    "text": "E503 *Keep aisles and exit pathways clear. Teams may not block aisles and pathways."
+  },
+  {
+    "rule": "E504",
+    "category": "E",
+    "number": 504,
+    "section": "5",
+    "section_name": "Event Rules (E)",
+    "pdf_page": 38,
+    "text": "E504 *Open flames and spark emitting devices must be limited and carefully controlled. Tools that \nthrow sparks or produce open flames are generally prohibited, except in limited and safely \ncontrolled instances. The Event Director may impose additional restrictions on open flames or \nsparks. \nExamples which are generally acceptable: limited use of a lighter to melt strings \nor strap to prevent fraying, using a sander to shorten a bolt as long as the sparks \nare directed safely and is limited in duration. \nExamples of tools that violate this rule include, but are not limited to: welders, \nbench and angle grinders, and gas torches."
+  },
+  {
+    "rule": "E505",
+    "category": "E",
+    "number": 505,
+    "section": "5",
+    "section_name": "Event Rules (E)",
+    "pdf_page": 39,
+    "text": "E505 *Only small benchtop machinery is permitted in team pits. Small machinery is allowed but floor \nstanding power tools are prohibited. The Event Director may impose additional limitations. \n‘Small’ machinery is machinery that can be easily lifted by one person and \nexamples include, but are not limited to: 3D printers, small band saws, small drill \npresses, desktop CNC mills, and sanders. \nExamples of prohibited machinery include, but are not limited to: full-size free \nstanding drill presses, and band saws."
+  },
+  {
+    "rule": "E506",
+    "category": "E",
+    "number": 506,
+    "section": "5",
+    "section_name": "Event Rules (E)",
+    "pdf_page": 39,
+    "text": "E506 *No brazing or welding. Brazing/welding is prohibited."
+  },
+  {
+    "rule": "E507",
+    "category": "E",
+    "number": 507,
+    "section": "5",
+    "section_name": "Event Rules (E)",
+    "pdf_page": 39,
+    "text": "E507 *Solder with specific tools only. Soldering may be done using an electric iron/gun only."
+  },
+  {
+    "rule": "E508",
+    "category": "E",
+    "number": 508,
+    "section": "5",
+    "section_name": "Event Rules (E)",
+    "pdf_page": 39,
+    "text": "E508 *Pit structures must be safe. Teams may not build any structure that supports the weight of people or \nstores items overhead. Structures may not block or inhibit fire sprinkler systems or otherwise be \nunsafe. The Event Director may impose additional restrictions. \nPopup tents may be used assuming they comply with E502, but the coverings \nmay violate this rule if they interfere with fire suppression systems."
+  },
+  {
+    "rule": "E509",
+    "category": "E",
+    "number": 509,
+    "section": "5",
+    "section_name": "Event Rules (E)",
+    "pdf_page": 39,
+    "text": "E509 *Only use aerosol or other chemicals with noxious fumes in approved areas.  Any aerosol or chemical \nthat produces noxious fumes or sprays particulates should only be used in approved areas. Not all \nvenues will allow the use of these products anywhere on site."
+  },
+  {
+    "rule": "E510",
+    "category": "E",
+    "number": 510,
+    "section": "5",
+    "section_name": "Event Rules (E)",
+    "pdf_page": 39,
+    "text": "E510 *Don’t heat or cool ROBOT components to gain an advantage. Teams may not attempt to gain a \ncompetitive advantage by heating or cooling ROBOT parts above or below the ambient temperature of \nthe venue.  \nThe intent of this rule is that ROBOTS should compete as if they were left alone \nfor an extended period of time in the competition venue at ambient temperature. \nBehaviors that are against the spirit of this rule include, but are not limited to: \n− Cooling fuses so they take longer to trip than normal, \n− Heating batteries to increase their performance, and \n− Freezing heatsinks so they are more effective at cooling other components. \nExamples of behaviors that would not violate this rule include, but are not limited \nto: \n− Heating or cooling components for reasons unrelated to ROBOT performance \n(e.g., warming up heat shrink tubing during installation) \n− Using a battery that is slightly above ambient temperature as a result of its \nregular charging cycle, and \n− Using a ROBOT with components that are warm as a result of prior use."
+  },
+  {
+    "rule": "E511",
+    "category": "E",
+    "number": 511,
+    "section": "5",
+    "section_name": "Event Rules (E)",
+    "pdf_page": 40,
+    "text": "E511 *Charge batteries in a safe and fair manner. When charging batteries teams must: \nA. Charge batteries at a safe rate, following all manufacturer recommendations, \nB. Never charge batteries on a battery charger that exceeds a 3-amp average channel current, \nand \nC. Charge batteries using safe connectors. \nSafe connectors are those with a polarized connector corresponding to the \nconnector on the battery itself. Batteries must never be charged using alligator \nclips or similar. \n5.6 ROBOT Carts"
+  },
+  {
+    "rule": "E601",
+    "category": "E",
+    "number": 601,
+    "section": "5",
+    "section_name": "Event Rules (E)",
+    "pdf_page": 40,
+    "text": "E601 *Carts must not be a nuisance. Teams may use carts to transport their ROBOT throughout an event. \nCarts must: \nA. be easy to control and maneuver,  \nB. pose no risk to bystanders, \nC. fit through a standard 30-inch (762mm) door, \nD. remain in the team pit when not in use, \nE. not be equipped with music or other sound generating device, and \nF. not use powered propulsion."
+  },
+  {
+    "rule": "E701",
+    "category": "E",
+    "number": 701,
+    "section": "5",
+    "section_name": "Event Rules (E)",
+    "pdf_page": 41,
+    "text": "E701 *Quiet in the pits during ceremonies. During ceremonies outside of Playoff MATCHES, team members \nmay not: \nA. use power tools, \nB. use loud hand tools (hammers, saws, etc.), or \nC. shout, yell, or use loud voices in a way that’s disruptive to the ceremony."
+  },
+  {
+    "rule": "E702",
+    "category": "E",
+    "number": 702,
+    "section": "5",
+    "section_name": "Event Rules (E)",
+    "pdf_page": 41,
+    "text": "E702 *Pit person limit during ceremonies is 5. No more than 5 team members may be in the pits during \nceremonies outside of Playoff MATCHES. Each team must have at least 1 representative observing \nceremonies to be responsible for relaying important information to the entire team. \nAll teams are encouraged to have as many people in the stands for ceremonies \nas possible. This is important both to celebrate all who are recognized during \nceremonies, but also to listen for important day-of information from event \norganizers which might be critical for your team."
+  },
+  {
+    "rule": "E703",
+    "category": "E",
+    "number": 703,
+    "section": "5",
+    "section_name": "Event Rules (E)",
+    "pdf_page": 41,
+    "text": "E703 *Be respectful during anthems. Team members, including any remaining in the pits, should exhibit \npeaceful behavior during the presentation of all national anthems. If team members wish to abstain \nfrom traditional anthem observance behaviors, they have a right to do so, as long as they remain silent \nand non-disruptive."
+  },
+  {
+    "rule": "A201",
+    "category": "A",
+    "number": 201,
+    "section": "6",
+    "section_name": "Awards (A)",
+    "pdf_page": 48,
+    "text": "A201 *Team PORTFOLIOS have limits. Teams have the opportunity to submit a team PORTFOLIO to \nbe used as part of the judging process. Other printed or digital content outside this document \nwill not be collected by the JUDGES for consideration during deliberations. Team PORTFOLIOS \nmust meet the following requirements: \nA. must consist of 1 cover page including the team number and optionally: team name, \nPORTFOLIO table of contents, team organizations, sponsors, logo, motto, and picture of the \nROBOT and/or team, \nB. no more than 15 pages of content, \nC. use only US Letter (8. ” x   ”) or A  (  0 x  97 mm) size pages, \nD. if submitted digitally, the complete submission must be less than 15MB in size, and \nE. must only include progress, challenges, and accomplishments which have taken place since \nJanuary 1, 2026. \nNone of the content of the cover page will be used by JUDGES to evaluate any \nawards criteria. Any content beyond the allowed 15 pages will not be reviewed by \nthe JUDGES.  \nTeams must strictly minimize Personally Identifying Information (PII) in the \nPORTFOLIO. For student privacy, use only first names and last initials. While \nstudent photographs are permitted, full names must not be disclosed. \nThe JUDGES use the cover page to identify the team associated with the \nPORTFOLIO. Teams who forget to include a cover page may be disqualified from \njudging if the JUDGES cannot determine what team the PORTFOLIO is \nassociated with.  \nDesign your PORTFOLIO for readability. Avoid fonts under 10 pt and low-contrast \ntext on images—JUDGES cannot evaluate what they cannot read. Use free tools \nlike the WebAIM Contrast Checker to ensure your font size, color, and design \nchoices are clear. \nJUDGES will not click on links, websites, or videos in a PORTFOLIO. They also \ncannot take extra printed papers from an interview back to their judging room. \nTeams should put everything they want JUDGES to see directly in their \nPORTFOLIO. \nTeams may use AI and research aids to compose their PORTFOLIOS, provided \nthey respect intellectual property rights and include a footnote or endnote credit. \nExample Credit: “Portfolio created by Team XXXXX and ChatGPT” \nA team may reference previous seasons (for example, in a team or organizational \nplan) to demonstrate growth, but the emphasis must be on the current season."
+  },
+  {
+    "rule": "A202",
+    "category": "A",
+    "number": 202,
+    "section": "6",
+    "section_name": "Awards (A)",
+    "pdf_page": 49,
+    "text": "A202 *PORTFOLIOS must be submitted on time and as requested. Teams must submit their PORTFOLIO as \ninstructed by the Event Director and by the stated deadline if they wish to have it considered during the \njudging process. If no other instructions are provided, teams should submit 1 printed copy of their \nPORTFOLIO during the Initial Interview. \nInstructions about when and how teams should submit their PORTFOLIOS should \nbe communicated by the Event Director before the event.  \nIf circumstances prevent a team from following the PORTFOLIO submission \ninstructions, the Event Director should work with the JUDGE Advisor to make \nreasonable accommodations to accept all team PORTFOLIOS unless doing so \nposes an undue burden to the judging process. \nTeams are encouraged to have an additional copy (digital or physical) of their \nPORTFOLIO available in their pit to assist with interviews they have with the \nJUDGES."
+  },
+  {
+    "rule": "A203",
+    "category": "A",
+    "number": 203,
+    "section": "6",
+    "section_name": "Awards (A)",
+    "pdf_page": 49,
+    "text": "A203 *Teams must participate in an Initial Interview session. To be considered for any judged awards the \nteam must participate in an Initial Interview session. \nIf scheduled, teams should be informed of their assigned time by the Event \nDirector or local Program Delivery Partner in advance of the event.  \nIf there is a schedule conflict or the team misses their Initial Interview slot due to \nunforeseen circumstances the team should work with the Event Director or local \nProgram Delivery Partner to make reasonable alternate accommodations for an \nInitial Interview at the event if possible."
+  },
+  {
+    "rule": "A204",
+    "category": "A",
+    "number": 204,
+    "section": "6",
+    "section_name": "Awards (A)",
+    "pdf_page": 49,
+    "text": "A204 * Have the right resources available for your Initial Interview. Teams should be prepared for their Initial \nInterview by having: \nA. no fewer than 2 STUDENT representatives for teams of 2 STUDENTS and larger, \nB. a copy of their team PORTFOLIO for reference during the interview, \nC. “show and tell” demonstration items which may include the team’s ROBOT (encouraged, but \noptional), \nD. 1 silent observer per A208 (optional), and \nE. 1 support person to fill accommodation needs per A209 (optional, as needed). \nTeams are encouraged to have as many STUDENTS as possible involved in the \nInitial Interview process. \nA team does not have to have a ROBOT to participate in judging or be eligible for \njudged awards.  \nTeams may power on and demonstrate their ROBOT functions during the Initial \nInterview but may not cause significant delays during the interview."
+  },
+  {
+    "rule": "A205",
+    "category": "A",
+    "number": 205,
+    "section": "6",
+    "section_name": "Awards (A)",
+    "pdf_page": 49,
+    "text": "A205 *Everyone gets equal Initial Interview time. All teams will be scheduled for the same length Initial \nInterview of at least 10 minutes."
+  },
+  {
+    "rule": "A206",
+    "category": "A",
+    "number": 206,
+    "section": "6",
+    "section_name": "Awards (A)",
+    "pdf_page": 49,
+    "text": "A206 *The Initial Interview timer starts when the team starts. The timer starts after the JUDGES have \nintroduced themselves and either, the team begins their presentation, or the Q&A portion of the \ninterview begins. Teams who take an extended amount of time to begin will be warned by the JUDGES"
+  },
+  {
+    "rule": "A207",
+    "category": "A",
+    "number": 207,
+    "section": "6",
+    "section_name": "Awards (A)",
+    "pdf_page": 50,
+    "text": "A207 *Prepared initial presentation time should not be interrupted. The first 5 minutes of the Initial \nInterview are reserved for the team to present a prepared oral presentation uninterrupted, if they \nchoose. The uninterrupted presentation time may be ended early by the team. Any remaining \ntime should be a question and answer conversation with the STUDENTS and led by the JUDGES."
+  },
+  {
+    "rule": "A208",
+    "category": "A",
+    "number": 208,
+    "section": "6",
+    "section_name": "Awards (A)",
+    "pdf_page": 50,
+    "text": "A208 *One adult silent observer is welcome. One adult may attend the judging session and be present \nfor any interaction between the JUDGES and the STUDENT team members. Adult coach(es) may \nbe present for any interactions between the JUDGES and the STUDENT team members outside \nof the Initial Interview. The adult observer and coach(es) may not interact or actively coach \nduring any interaction between the JUDGES and the STUDENT team members.  \nThe purpose of the adult silent observer is to provide silent confidence to the \nSTUDENT team members presenting in an unknown environment with new \npeople."
+  },
+  {
+    "rule": "A209",
+    "category": "A",
+    "number": 209,
+    "section": "6",
+    "section_name": "Awards (A)",
+    "pdf_page": 50,
+    "text": "A209 *Translator and/or Sign Language Interpreter accommodations will be made for teams who \nneed it. Teams who need to use a translator to communicate with the JUDGES may provide one \nif the team’s native language does not match that of the JUDGES. This includes sign language or \nother adaptive technology. Teams who intend to interview with the assistance of a translator \nmust work with the Event Director in advance to request additional interview time of between 2 \nand 5 minutes, if needed. The translator may be an adult and can be in addition to the silent \nobserver in A208.  \nIn most cases the translator will need to be provided by the team. If other \naccommodation is needed, the team should contact your local leadership to \ndiscuss options."
+  },
+  {
+    "rule": "A210",
+    "category": "A",
+    "number": 210,
+    "section": "6",
+    "section_name": "Awards (A)",
+    "pdf_page": 50,
+    "text": "A210 *No Photos, Video or Audio recording during Initial Interview. In addition to the restrictions of \nE116, no recording of video or audio, or photos may be taken during the Initial Interview."
+  },
+  {
+    "rule": "A211",
+    "category": "A",
+    "number": 211,
+    "section": "6",
+    "section_name": "Awards (A)",
+    "pdf_page": 51,
+    "text": "A211 *The number of awards given scales with event size. The total number of awards given is based on the \nnumber of teams checked in at the event. Not all awards are given at every competition. Only the \nawards specified in Table 6-1, based on the event size are, points-eligible for advancement.  \nTable 6-1: Total judged awards available based on all event participating teams \nTotal Event Participating Teams \nAward 4-10 Teams 11-20 Teams 21-40 Teams 41-64 Teams \nInspire Award 1st Place 1st Place \n2nd Place \n1st Place \n2nd Place \n3rd Place \n1st Place \n2nd Place \n3rd Place \nThink Award 1st Place 1st Place 1st Place \n2nd Place \n1st Place \n2nd Place \n(3rd Place*) \nTA Awards \nConnect Award 1st Place \n(Only one of \nConnect, \nReach, or \nSustain will be \ngiven) \n1st Place 1st Place \n(2nd Place*) \n1st Place \n2nd Place \n(3rd Place*) \nReach Award 1st Place 1st Place \n(2nd Place*) \n1st Place \n2nd Place \n(3rd Place*) \nSustain Award 1st Place 1st Place \n(2nd Place*) \n1st Place \n2nd Place \n(3rd Place*) \nMCI Awards Design Award 1st Place \n(Only one of \nInnovate, \nControl, or \nDesign will be \ngiven) \n1st Place 1st Place \n(2nd Place*) \n1st Place \n2nd Place \n(3rd Place*) \nInnovate Award 1st Place 1st Place \n(2nd Place*) \n1st Place \n2nd Place \n(3rd Place*) \nControl Award 1st Place 1st Place \n(2nd Place*) \n1st Place \n2nd Place \n(3rd Place*) \nJudges’ Choice Award Optional* Optional* Optional* Optional* \n*Discretionary awards \nSee Section 13.8 Dual Division Events for the modified dual division version \nof this rule."
+  },
+  {
+    "rule": "A212",
+    "category": "A",
+    "number": 212,
+    "section": "6",
+    "section_name": "Awards (A)",
+    "pdf_page": 52,
+    "text": "A212 *Judging feedback is provided to all teams. All teams will receive feedback from their Initial \nInterview session. The JUDGES complete a form immediately following the Initial Interview \nbased on their initial impression of the team. This feedback form is not used during deliberations \nand does not include any updated feedback based on later interactions by the JUDGES with the \nteam.  \nThe feedback form will either be returned with the PORTFOLIO for in-person \njudging, near the end of the event, or the Lead Coach 1 will receive access to a \ndigital version in FTC-Scoring following the event."
+  },
+  {
+    "rule": "A213",
+    "category": "A",
+    "number": 213,
+    "section": "6",
+    "section_name": "Awards (A)",
+    "pdf_page": 52,
+    "text": "A213 *Teams are only eligible to win the Inspire Award in their own region. Teams are only eligible to \nbe considered for the Inspire Award (1st, 2nd, or 3rd place) when competing at a tournament within \ntheir HOME REGION.  \nFIRST Championship and FIRST Premier Events are an exception to this rule. At \nthese events, all teams may be considered for the Inspire Award."
+  },
+  {
+    "rule": "A214",
+    "category": "A",
+    "number": 214,
+    "section": "6",
+    "section_name": "Awards (A)",
+    "pdf_page": 52,
+    "text": "A214 *Teams cannot win the Inspire Award at multiple Qualifying or League Tournaments. Teams are \nonly eligible to win 1st place Inspire Award once per season from any Qualifying or League \nTournament. \nTeams who have won 1st Place Inspire are eligible to win 2nd or 3rd place Inspire \nAward at subsequent Qualifying or League Tournaments.  \nTeams who have won 1st Place Inspire at a Qualifying or League Tournament are \neligible to win it at their Regional Super Qualifying Tournament (where \napplicable) and Regional Championship."
+  },
+  {
+    "rule": "A215",
+    "category": "A",
+    "number": 215,
+    "section": "6",
+    "section_name": "Awards (A)",
+    "pdf_page": 52,
+    "text": "A215 *Teams can only get one judged award. Teams are only eligible to win or be a runner-up for a \nsingle team judged award at the event. \nThis rule does not prevent a team from winning additional awards listed in \nSection 6.4 Tournament ALLIANCE Awards and Section 6.5 Individual \nAwards."
+  },
+  {
+    "rule": "G101",
+    "category": "G",
+    "number": 101,
+    "section": "11",
+    "section_name": "Game Rules (G)",
+    "pdf_page": 99,
+    "text": "G101 *Humans, stay off the FIELD during the MATCH. A team member may not enter the FIELD during a \nMATCH.  \nViolation: VERBAL WARNING. \nThe intent of this rule is that team members should stay outside of the FIELD \nperimeter during a MATCH and not impact a MATCH except as allowed in \nSection 11.4.6 Human. A team member stepping onto the FIELD or hanging a \nlarge portion of their body over the FIELD is a violation of this rule.  \nA team member pointing their arm, waving, or leaning over the FIELD perimeter \nwall without impacting the MATCH are not violations of the rule."
+  },
+  {
+    "rule": "G102",
+    "category": "G",
+    "number": 102,
+    "section": "11",
+    "section_name": "Game Rules (G)",
+    "pdf_page": 99,
+    "text": "G102 *Be careful when interacting with ARENA elements. A team member is prohibited from the following \nactions with regards to interaction with ARENA elements:  \nA. climbing on, \nB. hanging from, \nC. manipulating such that it does not return to its original shape without human intervention, \nand \nD. damaging. \nViolation: VERBAL WARNING. \nDRIVE TEAM members may brace the FIELD perimeter at any point during the \nMATCH. Moving the FIELD perimeter out of position is considered a violation of \nG102.C.  \n11.2 Conduct"
+  },
+  {
+    "rule": "G201",
+    "category": "G",
+    "number": 201,
+    "section": "11",
+    "section_name": "Game Rules (G)",
+    "pdf_page": 99,
+    "text": "G201 *Be a good person. All teams must be civil toward everyone and respectful of team and event \nequipment while at a FIRST Tech Challenge event. Please review the FIRST Code of Conduct, Core \nValues, and the rest of Section 1.4.2 Framework of Behaviors for more information. \nViolation: VERBAL WARNING. YELLOW CARD if subsequent violations occur during the event.  \nParticularly contemptible behavior may result in ARENA ejection for individuals, \ndisqualification for teams, and may be subject to further escalation as described \nin the Escalation Guidelines (coming soon)."
+  },
+  {
+    "rule": "G202",
+    "category": "G",
+    "number": 202,
+    "section": "11",
+    "section_name": "Game Rules (G)",
+    "pdf_page": 100,
+    "text": "G202 *Follow the Competition Integrity Contract (CIC). When playing BIOBUZZ, teams must follow the rules \nand follow the Competition Integrity Contract (CIC) described in Section 1.5 Competition \nIntegrity Contract (CIC) during every MATCH.  \nExamples of behaviors that would violate this rule include, but are not limited to: \nA. deliberately violating the spirit of the rules, \nB. throwing MATCHES, deliberately missing RPs, or playing beneath your ability to manipulate \nrankings, \nC. asking other teams to throw MATCHES, deliberately miss RPs, or play beneath their ability to \nmanipulate rankings, \nD. asking teams to not show up to their MATCH,  \nE. distracting, disrupting, and/or taunting opponents, or  \nF. disrupting ARENA operations. \nViolation: VERBAL WARNING. YELLOW or RED CARD if subsequent violations occur during the event. \nThese rules are not intended to prevent an ALLIANCE, who intends to play the \ngame and follow the rules, from planning and/or executing strategies in specific \nMATCHES in which teams play specific and potentially unconventional roles that \ncontribute to their ALLIANCE. \nPlaying with integrity is required in FIRST; YELLOW or RED CARDS will be given at \nthe discretion of the Head REFEREE based on severity of the infraction and \nimpact on the MATCH."
+  },
+  {
+    "rule": "G203",
+    "category": "G",
+    "number": 203,
+    "section": "11",
+    "section_name": "Game Rules (G)",
+    "pdf_page": 100,
+    "text": "G203 *Show up to your MATCHES. If a ROBOT has passed initial, complete inspection, at least 1 member of \nits DRIVE TEAM must report to the ARENA and participate in each of their assigned Qualification \nMATCHES. \nViolation: DISQUALIFIED from the current MATCH.  \nThe team should inform the Lead Queuer if the team’s ROBOT is not able to \nparticipate.  \nIf there are extenuating circumstances which prevent at least 1 member of a \nteam from attending each of their MATCHES, that team should discuss with \nFIELD STAFF whether an accommodation is available."
+  },
+  {
+    "rule": "G204",
+    "category": "G",
+    "number": 204,
+    "section": "11",
+    "section_name": "Game Rules (G)",
+    "pdf_page": 100,
+    "text": "G204 *Do not expect to gain by doing others harm. Actions clearly aimed at forcing the opponent ALLIANCE \nto violate a rule are not in the spirit of FIRST Tech Challenge and not allowed. Violations forced in this \nmanner will not result in an assignment of a penalty or penalties, to the targeted ALLIANCE. \nViolation: MAJOR FOUL per instance. MAJOR FOUL per instance and YELLOW CARD per MATCH if \nREPEATED. The ALLIANCE that was forced to break a rule will not be assessed a penalty. \nThis rule does not apply for strategies consistent with standard gameplay. \nThis rule requires a deliberate act with limited or no opportunity for the team \nbeing acted on to avoid the penalty, such as: \nA. a red ALLIANCE ROBOT deliberately drives into a blue ALLIANCE ROBOT that \nis lined up to score NECTAR into a FLOWER with 65 seconds left in the \nMATCH, causing them drop the NECTAR into the FLOWER early in violation of \nG410."
+  },
+  {
+    "rule": "G205",
+    "category": "G",
+    "number": 205,
+    "section": "11",
+    "section_name": "Game Rules (G)",
+    "pdf_page": 101,
+    "text": "G205 *Egregious or exceptional violations. Egregious behavior beyond what is listed in the rules or \nsubsequent violations of any rule or procedure during the event is prohibited. \nIn addition to rule violations explicitly listed in this manual and witnessed by a REFEREE, the Head \nREFEREE may assign a YELLOW or RED CARD for egregious ROBOT actions or team member behavior \nat any time during the event. \nContinued violations will be brought to FIRST Headquarters’ attention. FIRST Headquarters will work \nwith event staff to determine if further escalations are necessary, which can include removal from \naward consideration and removal from the event. \nDeliberately violating a rule because the benefit of the violation outweighs the penalty is not in the spirit \nof FIRST and is an example of egregious behavior. For example, multiple violations of rules without an \nescalation path because the cumulative benefit outweighs the cumulative penalty. Violating a rule that \nonly results in a YELLOW CARD in an ALLIANCE’S potential last MATCH prior to cards clearing per \nSection 10.6.1 YELLOW and RED CARDS or the end of an event (such as a team’s last qualification \nMATCH, a lower bracket MATCH) will be under increased scrutiny and will likely result in a RED CARD.  \nPlease see Section 10.6.1 YELLOW and RED CARDS for additional detail.  \nViolation: YELLOW or RED CARD. \nThe intent of this rule is to provide the Head REFEREES with the flexibility \nnecessary to keep the event running smoothly, as well as keep the safety of all \nthe participants as the highest priority.  \nThe Head REFEREE may assign a YELLOW or RED CARD for a single instance of \na rule violation or for multiple instances of any single rule violation. Teams \nshould be aware that any rule in this manual could escalate to a YELLOW or RED \nCARD. The Head REFEREE has final authority on all rules and violations at an \nevent."
+  },
+  {
+    "rule": "G301",
+    "category": "G",
+    "number": 301,
+    "section": "11",
+    "section_name": "Game Rules (G)",
+    "pdf_page": 102,
+    "text": "G301 *Don’t delay MATCHES. DRIVE TEAM members may not cause significant delays to the start of their \nMATCH. Both of these conditions must be met prior to team actions being considered:  \nA. the expected MATCH start time has passed, and  \nB. the DRIVE TEAM has access to the ARENA. \nIn order for a team to cause a significant delay, the Head REFEREE must perceive that the team is \nneither MATCH ready (G303) nor making a good faith effort to quickly become MATCH ready. \nDuring Qualification MATCHES, the expected start time of the MATCH is the time \nindicated on the MATCH schedule or ~3 minutes after the end of the previous \nMATCH on the same FIELD, whichever is later.  \nDuring Playoff MATCHES, the expected start time of the MATCH is the time \nindicated on the MATCH schedule or 8 minutes from either ALLIANCE’S previous \nMATCH, whichever is later \nDuring back-to-back MATCHES, T406 is in effect, and teams may have a longer \nminimum break. \nTeams that have 1 DRIVE TEAM member present and have informed FIELD \nSTAFF that their ROBOT will not be participating in the MATCH are considered \nMATCH ready and not in violation of this rule. \nViolation: VERBAL WARNING. MAJOR FOUL for the upcoming MATCH if a subsequent violation occurs \nwithin the tournament phase. In a Playoff MATCH, the VERBAL WARNING is issued to the entire \nALLIANCE. \nIf the team/ALLIANCE is not MATCH ready within 2 minutes of the VERBAL WARNING/MAJOR FOUL \nhaving been issued, and the Head REFEREE perceives no good faith effort by the DRIVE TEAM(S) to \nquickly become MATCH ready, the offending team’s  OBOT is DI ABLED. \nThe intent of this rule is to provide an equitable amount of time for both \nALLIANCES to prepare for each MATCH and give DRIVE TEAMS grace given \nextenuating circumstances that cause them to be late. Teams should avoid \ndisrupting ARENA operations and proactively communicate with the Head \nREFEREE and FIELD STAFF to let them know their status. \nFIELD STAFF will make a good faith effort to wait for missing or unprepared \nteams and will avoid beginning any MATCH when teams are not present or not \nMATCH ready and making good faith effort to become MATCH ready. \nOnce a VERBAL WARNING/MAJOR FOUL is issued, the Head REFEREE starts a 2-\nminute timer and makes a good faith effort to share the timer’s status with the \ndelaying DRIVE TEAM.  \nIn general, good faith efforts to quickly become MATCH ready are entirely for the \npurposes of transitioning the ROBOT into a MATCH ready state (i.e., not attempts \nto significantly alter a ROBOT’S capabilities). Examples of good faith efforts to \nquickly become MATCH ready that would not be a violation include but are not \nlimited to: \nA. walking safely towards the FIELD with a ROBOT that a team is not actively \nmodifying,"
+  },
+  {
+    "rule": "G302",
+    "category": "G",
+    "number": 302,
+    "section": "11",
+    "section_name": "Game Rules (G)",
+    "pdf_page": 103,
+    "text": "G302 *Limit what you bring to the FIELD. Items brought to the FIELD to be used for a MATCH, in addition to \nthe ROBOT and OPERATOR CONSOLE, must fit in the team’s designated ALLIANCE AREA, be worn or \nheld by members of the DRIVE TEAM, or be an item used as an accommodation (e.g., crutches, \ncushions, kneeling mats, or single-step stools no more than 12 in. tall (30.5 cm) that are designed to be \nstood on and are locked such that they do not roll/fold). \nRegardless of whether the equipment fits the criteria above, it may not: \nA. be employed in a way that disrupts normal ARENA operations or introduces a safety hazard,  \nB. extend more than 6 ft. 6 in. (~198 cm) above the TILES, \nC. communicate with anything or anyone outside of the ARENA with the exception of medically \nrequired equipment, \nD. block visibility for FIELD STAFF or audience members, or  \nE. jam or interfere with the remote sensing capabilities of another team. \nExceptions to G302.B are granted for MOMENTARY extensions above 6 ft. 6in. and for individuals \nwearing PPE or reasonable decorative apparel such as hats, headbands, etc. \nViolation: MATCH will not start until the situation is remedied. VERBAL WARNING, if discovered or used \ninappropriately during a MATCH. YELLOW CARD if subsequent violations occur during the event. \nIt is not a violation of this rule to bring an alignment device to the FIELD to aid \npre-MATCH ROBOT set-up and alignment. The use of any alignment devices \nshould not delay MATCH start in violation of G301. \nExamples of equipment that may be considered a safety hazard in the confined \nspace of the ALLIANCE AREA include but are not limited to: a ladder or a large \nsignaling device. \nUsing an item that has wireless communications disabled complies with G302.C \nabove.  \nExamples of jamming or interfering with remote sensing capabilities include but \nare not limited to: mimicking the FIELD AprilTags and shining bright lighting or \nlaser pointers onto the FIELD during a MATCH."
+  },
+  {
+    "rule": "G303",
+    "category": "G",
+    "number": 303,
+    "section": "11",
+    "section_name": "Game Rules (G)",
+    "pdf_page": 103,
+    "text": "G303 *ROBOTS on the FIELD must come ready to play a MATCH. A ROBOT must meet all following MATCH-\nstart requirements:  \nA. does not pose a hazard to humans, ARENA elements, or other ROBOTS, \nB. meets all the requirements from Section 3.3 MATCH Eligibility Rules including those \nregarding inspection/re-inspection, \nC. is the only team-provided item left in the FIELD, and \nD. has ROBOT SIGNS that indicate the correct ALLIANCE color (see R402)."
+  },
+  {
+    "rule": "G304",
+    "category": "G",
+    "number": 304,
+    "section": "11",
+    "section_name": "Game Rules (G)",
+    "pdf_page": 104,
+    "text": "G304 *ROBOTS must be set up correctly on the FIELD. A ROBOT must be positioned on the FIELD such that \nit meets all of the following requirements:  \nA. fully contained on its own ALLIANCE’s side of the FIELD (FIELD columns A, B, C for red, or \nFIELD columns D, E, F for blue) (Figure 9-4), \nB. not attached to, entangled with, or suspended from any FIELD element, \nC. touching the FIELD perimeter wall, \nD. not contacting or in the scoring volume of a FLOWER, \nE. not in the LOADING ZONE, \nF. confined to its STARTING CONFIGURATION (see R102 and R103), \nG. in contact with exactly 4 POLLEN pre-loads as described in Section 10.3.1 SCORING \nELEMENTS, and  \nH. fully motionless following completion of OpMode initialization, \nViolation: The MATCH will not start until all requirements are met, if there is a quick remedy. DISABLED or \nremoved from FIELD, if it is not a quick remedy. \nG304.A requires the ROBOT to be fully contained within the FIELD perimeter and \nnot overhang the FIELD perimeter wall. \nEach ROBOT must start contacting 4 POLLEN either located in or on the ROBOT, \nor on the TILES contacting the ROBOT. ROBOTS that are no-shows for their \nMATCH will have their POLLEN placed in the LOADING ZONE against the \nperimeter wall. \nFigure 11-1 shows examples of several possible legal ROBOT starting locations."
+  },
+  {
+    "rule": "G305",
+    "category": "G",
+    "number": 305,
+    "section": "11",
+    "section_name": "Game Rules (G)",
+    "pdf_page": 105,
+    "text": "G305 *Teams must select an OpMode. An OpMode must be selected on the DRIVER STATION app and \ninitialized by pressing the INIT button. If this OpMode is an AUTO OpMode, the 30 second AUTO timer \nmust be enabled.  \nViolation: MATCH will not start until the situation is remedied. DISABLED if ROBOT cannot initialize an \nOpMode or the situation cannot be remedied quickly. \nThis rule requires all teams to select and INIT an OpMode, regardless of whether \nor not an AUTO OpMode is planned to be used during AUTO. FIELD STAFF will \nuse this as an indication that a team is ready to start the MATCH. \nTeams without an AUTO OpMode should consider creating a default AUTO \nOpMode using the BasicOpMode sample and use the auto-loading feature to \nautomatically queue up their TELEOP OpMode."
+  },
+  {
+    "rule": "G401",
+    "category": "G",
+    "number": 401,
+    "section": "11",
+    "section_name": "Game Rules (G)",
+    "pdf_page": 106,
+    "text": "G401 *Don’t interact with a ROBOT during AUTO. As soon as the countdown to start the MATCH begins and \nuntil the end of AUTO, DRIVE TEAM members may not directly or indirectly interact with a ROBOT or an \nOPERATOR CONSOLE, with the following exceptions: \nA. to press the (▶) start button within a MOMENTARY margin of the start of the MATCH, \nB. to press the (■) stop button either at the team’s discretion or instruction of the Head \nREFEREE per T402, or \nC. for personal safety or OPERATOR CONSOLE safety.  \nViolation: VERBAL WARNING. MAJOR FOUL and YELLOW CARD per MATCH, if STRATEGIC. \nTeams do not have to start an OpMode if they choose not to run an AUTO \nOpMode. \nThe intent of G401.A is for teams to start AUTO on time, accounting for some \nvariability due to human factors."
+  },
+  {
+    "rule": "G402",
+    "category": "G",
+    "number": 402,
+    "section": "11",
+    "section_name": "Game Rules (G)",
+    "pdf_page": 106,
+    "text": "G402 No AUTO opponent interference. During AUTO, a team may not disrupt AUTO for the opposing \nALLIANCE.  \nViolation: MAJOR FOUL per MATCH. MAJOR FOUL and YELLOW CARD per MATCH, if STRATEGIC. \nDuring AUTO, FIELD columns A, B, C constitute the red side of the FIELD, and \ncolumns D, E, F (Figure 9-5) constitute the blue side of the FIELD. Each ALLIANCE \nhas priority over those FIELD and SCORING ELEMENTS on their side of the FIELD. \nNavigating into the opposing ALLIANCE’S side of the FIELD during AUTO is a \nrisky gameplay strategy that may be seen as STRATEGIC. \nSCORING ELEMENTS that happen to enter the other side of the FIELD after being \ndeflected by another object in the FIELD (e.g., FIELD element, ROBOT) will likely \nnot be penalized. \n11.4.2 TELEOP"
+  },
+  {
+    "rule": "G403",
+    "category": "G",
+    "number": 403,
+    "section": "11",
+    "section_name": "Game Rules (G)",
+    "pdf_page": 106,
+    "text": "G403 *ROBOTS are motionless between AUTO and TELEOP. Any powered movement of the ROBOT or any of \nits MECHANISMS is not allowed during the transition period between AUTO and TELEOP. \nViolation: VERBAL WARNING. MAJOR FOUL and YELLOW CARD per MATCH, if STRATEGIC. \nMovement due to inertia, gravity, or de-energizing of actuators, etc. is not \nconsidered powered movement.  \nTeams may press buttons on their DRIVER STATION app to stop the AUTO \nOpMode, initialize or start a TELEOP OpMode during the AUTO to TELEOP \ntransition period. If the INIT portion of the OpMode causes the ROBOT to violate"
+  },
+  {
+    "rule": "G404",
+    "category": "G",
+    "number": 404,
+    "section": "11",
+    "section_name": "Game Rules (G)",
+    "pdf_page": 107,
+    "text": "G404 *ROBOTS are motionless at the end of TELEOP. ROBOTS must no longer have powered movement \nafter the end of TELEOP until the Head REFEREE or their designee signals that teams may retrieve their \nROBOTS.  \nViolation: VERBAL WARNING. MAJOR FOUL and YELLOW CARD per MATCH, if STRATEGIC. \nDRIVE TEAMS should make it obvious that the ROBOTS are no longer being \ncontrolled by pressing the (■) stop button on the DRIVER STATION app or by \ndiscontinuing any operation of the ROBOT by the end of the MATCH period and \nsetting down their controllers.  \nMovement due to inertia, gravity, or de-energizing of actuators, etc. is not \nconsidered powered movement.  \n11.4.3 SCORING ELEMENT"
+  },
+  {
+    "rule": "G405",
+    "category": "G",
+    "number": 405,
+    "section": "11",
+    "section_name": "Game Rules (G)",
+    "pdf_page": 107,
+    "text": "G405 *Keep SCORING ELEMENTS In bounds. A ROBOT may not deliberately eject a SCORING ELEMENT from \nthe FIELD (either directly or by bouncing it off a FIELD element or another ROBOT).  \nViolation: MAJOR FOUL per SCORING ELEMENT.  \nSCORING ELEMENTS that leave the FIELD during scoring attempts or as the \nresult of ROBOT-to-ROBOT interactions are not considered deliberate ejections \nand are not violations of this rule."
+  },
+  {
+    "rule": "G406",
+    "category": "G",
+    "number": 406,
+    "section": "11",
+    "section_name": "Game Rules (G)",
+    "pdf_page": 107,
+    "text": "G406 *Do not damage or make a mess in the ARENA. Neither a ROBOT nor a DRIVE TEAM member may \nmake a mess or damage any part of the ARENA.  \nViolation: VERBAL WARNING. MAJOR FOUL and YELLOW CARD per MATCH, if STRATEGIC. DISABLED if \nthe damage is caused by a ROBOT, and the Head REFEREE perceives that further damage is likely to \noccur. \nCorrective action (such as eliminating sharp edges, removing the damaging MECHANISM, and/or \nreinspection) may be required before the ROBOT may compete in subsequent MATCHES. \nThe intent of this rule is that DRIVE TEAM members and ROBOTS negatively \nimpact the ARENA, including FIELD elements and SCORING ELEMENTS in a way \nthat would result in significant repair or extensive cleanup that disrupts ARENA \noperations. Rule R201 describes examples of ROBOT features related to this rule \nthat are scrutinized during inspection. \nSCORING ELEMENTS are expected to undergo a reasonable amount of wear and \ntear as they are handled by ROBOTS and humans, such as scratching, marking, \nand eventually damage due to fatigue. Routinely gouging, tearing off pieces, or \nmarking SCORING ELEMENTS are violations of this rule."
+  },
+  {
+    "rule": "G407",
+    "category": "G",
+    "number": 407,
+    "section": "11",
+    "section_name": "Game Rules (G)",
+    "pdf_page": 107,
+    "text": "G407 No more than 4 at a time. A ROBOT may not simultaneously CONTROL more than 4 SCORING \nELEMENTS. \nViolation: VERBAL WARNING. MAJOR FOUL and YELLOW CARD per MATCH, if STRATEGIC."
+  },
+  {
+    "rule": "G408",
+    "category": "G",
+    "number": 408,
+    "section": "11",
+    "section_name": "Game Rules (G)",
+    "pdf_page": 108,
+    "text": "G408 Don’t CONTROL opponent NECTAR. A ROBOT may not CONTROL the opponent’s NECTAR.  \nViolation: VERBAL WARNING. YELLOW CARD per MATCH, if STRATEGIC."
+  },
+  {
+    "rule": "G409",
+    "category": "G",
+    "number": 409,
+    "section": "11",
+    "section_name": "Game Rules (G)",
+    "pdf_page": 108,
+    "text": "G409 Don’t catch SCORING ELEMENTS. A ROBOT may not catch or deflect a SCORING ELEMENT released \nby a TIPPED HIVE unless and until that SCORING ELEMENT contacts anything else besides that \nROBOT. \nViolation: VERBAL WARNING. YELLOW CARD per MATCH, if STRATEGIC. \nThe intent of this rule is for the POLLEN and NECTAR that spills out of a TIPPED \nHIVE to hit the TILE floor before it is collected by any ROBOT. It is not the intent \nto penalize accidental catches of SCORING ELEMENTS of ROBOTS that happen \nto be under a TIPPING HIVE. \nTeams are encouraged to design their ROBOTS such that they are unable to \naccidentally catch SCORING ELEMENTS. This could involve guards to prevent \nSCORING ELEMENTS from accidentally becoming stuck on top of the ROBOT. \nROBOT features of this type will make it more obvious to REFEREES that the"
+  },
+  {
+    "rule": "G410",
+    "category": "G",
+    "number": 410,
+    "section": "11",
+    "section_name": "Game Rules (G)",
+    "pdf_page": 109,
+    "text": "G410 NECTAR only goes into FLOWERS with one minute left. ROBOTS may not enter NECTAR into the \nFLOWER scoring volume until the last 60 seconds of the MATCH.  \nViolation: MAJOR FOUL per NECTAR. \nSee Section 10.5.2 FLOWER Scoring Criteria for details on the FLOWER \nscoring volume.  \nThe primary FIELD timer display is the cue to indicate when there is 60 seconds \nleft in the MATCH. \nTeams are encouraged to make it obvious and unambiguous to REFEREES that \nthey are not placing NECTAR into a FLOWER too early."
+  },
+  {
+    "rule": "G411",
+    "category": "G",
+    "number": 411,
+    "section": "11",
+    "section_name": "Game Rules (G)",
+    "pdf_page": 109,
+    "text": "G411 *Do not hoard SCORING ELEMENTS. An ALLIANCE may not STRATEGICALLY prevent the opposing \nALLIANCE from accessing SCORING ELEMENTS.  \nViolation: MAJOR FOUL and YELLOW CARD per MATCH. \nAn ALLIANCE using their own NECTAR and/or POLLEN for scoring is not a \nviolation of this rule.  \nCorralling relevant SCORING ELEMENTS into a limited portion of the FIELD \nand/or actively positioning a ROBOT to prevent opposing ALLIANCE access is a \nviolation of this rule. A GARDEN is not a protected zone. \n11.4.4 ROBOT"
+  },
+  {
+    "rule": "G412",
+    "category": "G",
+    "number": 412,
+    "section": "11",
+    "section_name": "Game Rules (G)",
+    "pdf_page": 109,
+    "text": "G412 *ROBOTS must be under control. A ROBOT must not pose an undue hazard to a human or an ARENA \nelement during a MATCH in the following ways:  \nA. the ROBOT or anything it CONTROLS, i.e., a SCORING ELEMENT, disrupts anything outside \nthe FIELD or contacts a human that is outside the FIELD, or \nB. the ROBOT operation is dangerous."
+  },
+  {
+    "rule": "G413",
+    "category": "G",
+    "number": 413,
+    "section": "11",
+    "section_name": "Game Rules (G)",
+    "pdf_page": 110,
+    "text": "G413 *ROBOTS must stop when instructed. If a team is instructed to DISABLE their ROBOT by a REFEREE \nper T402, a DRIVE TEAM member must press the (■) stop button on the DRIVER STATION app and set \ndown their controllers. \nViolation: VERBAL WARNING. RED CARD, if STRATEGIC."
+  },
+  {
+    "rule": "G414",
+    "category": "G",
+    "number": 414,
+    "section": "11",
+    "section_name": "Game Rules (G)",
+    "pdf_page": 110,
+    "text": "G414 *ROBOTS must be identifiable. A ROBOT’S team number and ALLIANCE color must not become \nindeterminate, as perceived by the Head REFEREE.  \nViolation: VERBAL WARNING. YELLOW CARD, if STRATEGIC. \nTeams are encouraged to robustly affix their ROBOT SIGNS to their ROBOT in \nhighly visible locations such that they do not easily fall off or become obscured \nduring normal gameplay.  \nCorrective action such as revising ROBOT SIGNS may be requested before the \nROBOT participates in a subsequent MATCH."
+  },
+  {
+    "rule": "G415",
+    "category": "G",
+    "number": 415,
+    "section": "11",
+    "section_name": "Game Rules (G)",
+    "pdf_page": 110,
+    "text": "G415 *Watch your ARENA interaction. A ROBOT is prohibited from the following interactions with an ARENA \nelement, except for SCORING ELEMENTS:  \nA. grabbing, \nB. grasping, \nC. attaching to, \nD. becoming entangled with, or \nE. suspending from. \nViolation: VERBAL WARNING. YELLOW CARD per MATCH, if STRATEGIC. DISABLED if the Head REFEREE \nperceives that damage is likely.  \nCorrective action (such as removing the offending MECHANISM, and/or re-inspection) may be required \nbefore the ROBOT will be allowed to compete in subsequent MATCHES. \nROBOTS with a concave shape that wraps partially around a FLOWER for \npurposes such as to aid in alignment would not be in violation of this rule."
+  },
+  {
+    "rule": "G416",
+    "category": "G",
+    "number": 416,
+    "section": "11",
+    "section_name": "Game Rules (G)",
+    "pdf_page": 110,
+    "text": "G416 ROBOTS have construction limits. ROBOTS may not violate the limits outlined in R105 during the \nMATCH. ROBOTS may not: \nA. expand such that they exceed the expansion limits noted in R105.A or R105.B, or"
+  },
+  {
+    "rule": "G417",
+    "category": "G",
+    "number": 417,
+    "section": "11",
+    "section_name": "Game Rules (G)",
+    "pdf_page": 111,
+    "text": "G417 ROBOTS may not meddle with the HIVE Structure. ROBOTS may not manipulate the motion of the HIVE \nin any way other than by LAUNCHING SCORING ELEMENTS into an upward-facing CELL. \nViolation: VERBAL WARNING. MAJOR FOUL and YELLOW CARD per MATCH, if STRATEGIC. \nHIVES are designed and intended to only have a TIP induced by LAUNCHING \nPOLLEN and NECTAR into an upward-facing CELL. Any other interaction with the \nHIVE that causes or could cause or impeding a TIP is a violation of this rule.  \nExamples of ROBOT actions that are likely to be perceived as STRATEGIC \ninclude, but are not limited to: \nA. ramming into the HIVE frame at high-speed, \nB. ramming into the HIVE frame multiple times in a short time period, \nC. deliberately LAUNCHING NECTAR or POLLEN into the external bottom, sides, \nor top faces of a CELL, \nD. impeding the TIP of an opponent’s HIVE by LAUNCHING NECTAR or POLLEN \nat it, \nE. contacting a HIVE directly or transitively through a CONTROLLED SCORING \nELEMENT, or \nF. actions that are REPEATED after a warning has been given. \nExamples of actions that are likely to not be perceived as STRATEGIC include, \nbut are not limited to: \nG. A ROBOT accidentally bumping into a HIVE frame while attempting to pick up \nPOLLEN, or \nH. A ROBOT attempting to LAUNCH POLLEN or NECTAR into the upward-facing \nCELL and missing in a way that hits the bottom, sides, or top of the CELL."
+  },
+  {
+    "rule": "G418",
+    "category": "G",
+    "number": 418,
+    "section": "11",
+    "section_name": "Game Rules (G)",
+    "pdf_page": 111,
+    "text": "G418 ROBOTS may not meddle with FLOWERS. ROBOTS may not enter SCORING ELEMENTS into or remove \nSCORING ELEMENTS from a FLOWER except:  \nA. only enter POLLEN and NECTAR into the top of a FLOWER, and  \nB. only remove POLLEN from the bottom of a FLOWER.  \nViolation: VERBAL WARNING. MAJOR FOUL and YELLOW CARD per MATCH, if STRATEGIC.  \nThe FLOWERS are designed and intended to only allow POLLEN and NECTAR to \nenter through the top of the top ring and only allow POLLEN (not NECTAR) to be \nremoved from the bottom of the middle ring. Any other actions to score or \nremove SCORING ELEMENTS from the FLOWER are considered a violation of this \nrule.  \nThe intent is not to disallow ROBOTS from contacting the FLOWER or \ninteractions that occur when attempting allowed scoring actions."
+  },
+  {
+    "rule": "G419",
+    "category": "G",
+    "number": 419,
+    "section": "11",
+    "section_name": "Game Rules (G)",
+    "pdf_page": 112,
+    "text": "G419 *Do not damage an opponent ROBOT. A ROBOT may not damage or functionally impair an opponent \nROBOT. \nViolation: VERBAL WARNING. MAJOR FOUL and YELLOW CARD per instance, if STRATEGIC. MAJOR FOUL \nand RED CARD per instance if STRATEGIC and opponent ROBOT is unable to drive. \nBIOBUZZ is a highly interactive game and may include defensive and high-\ncontact gameplay. While this rule prevents teams from damaging their \nopponents STRATEGICALLY and aims to limit severe damage to ROBOTS, teams \nshould design their ROBOTS to be robust.  \nThe damage or functional impairment of exposed or unprotected COMPONENTS \nor MECHANISMS in the course of normal gameplay is not likely to be considered \na violation of this rule. This includes, but is not limited to: \nA. an exposed or unprotected main power switch (see R603), \nB. exposed or unprotected wiring, or  \nC. a delicately constructed MECHANISM (such as an intake). \nWhen a team’s ROBOT is interacting with an opponent ROBOT that is in a \nprecarious or disadvantaged position, that team should make it obvious and \nunambiguous that they are trying to avoid damaging their opponent."
+  },
+  {
+    "rule": "G420",
+    "category": "G",
+    "number": 420,
+    "section": "11",
+    "section_name": "Game Rules (G)",
+    "pdf_page": 113,
+    "text": "G420 *Do not tip or entangle. A ROBOT may not attach to, tip over, or entangle an opponent ROBOT.  \nViolation: VERBAL WARNING. MAJOR FOUL and YELLOW CARD per instance, if STRATEGIC. MAJOR FOUL \nand RED CARD per instance, if STRATEGIC and either CONTINUOUS or opponent ROBOT is unable to drive.  \nExamples of actions that are likely to be perceived as STRATEGIC include, but are \nnot limited to: \nA. using a wedge-like MECHANISM to tip over an opponent ROBOT, \nB. making frame-to-frame contact with an opponent ROBOT that is attempting \nto right itself after previously falling over and causing them to fall over, or \nC. causing an opponent ROBOT to tip over by contacting the ROBOT after it \nstarts to tip if, as determined by the REFEREE, that contact could have been \navoided. \nTipping as an unintended consequence of normal ROBOT-to-ROBOT interaction, \nincluding single frame-to-frame hits that result in a ROBOT tipping, as perceived \nby the REFEREE, is not a STRATEGIC violation of this rule. \n\"Unable to drive\" means that because of the incident, the DRIVER can no longer \ndrive to a desired location in a reasonable time (generally). For example, if a \nROBOT can only move in circles or can only move extremely slowly, the ROBOT is \nconsidered unable to drive."
+  },
+  {
+    "rule": "G421",
+    "category": "G",
+    "number": 421,
+    "section": "11",
+    "section_name": "Game Rules (G)",
+    "pdf_page": 113,
+    "text": "G421 *There is a 3-count on PINS. A ROBOT may not PIN an opponent’s ROBOT for more than 3 seconds. A \nROBOT is PINNING if it is preventing the movement of an opponent ROBOT by contact, either direct or \ntransitive (such as against a FIELD element). A PIN count ends once any of the following criteria below \nare met:"
+  },
+  {
+    "rule": "G422",
+    "category": "G",
+    "number": 422,
+    "section": "11",
+    "section_name": "Game Rules (G)",
+    "pdf_page": 114,
+    "text": "G422 *DRIVE TEAM stays in the ALLIANCE AREA. Once a MATCH starts, DRIVE TEAM members may not \nleave their designated ALLIANCE AREA. \nViolation: VERBAL WARNING. MINOR FOUL per instance, if STRATEGIC. \nThe intent of this rule is to prevent DRIVE TEAM members from leaving their \nassigned ALLIANCE AREA during a MATCH to gain a competitive advantage. For \nexample, moving to another part of the FIELD for better viewing or reaching into \nthe FIELD. Simply breaking the plane of the AREA during normal MATCH play is \nnot a violation. \nDRIVE TEAMS may be anywhere in their ALLIANCE AREA during a MATCH. DRIVE \nTEAM members may retrieve their own ALLIANCE’S NECTAR that has left the \nFIELD that they can reach while remaining in the ALLIANCE AREA. \nExceptions are granted in cases concerning safety."
+  },
+  {
+    "rule": "G423",
+    "category": "G",
+    "number": 423,
+    "section": "11",
+    "section_name": "Game Rules (G)",
+    "pdf_page": 114,
+    "text": "G423 *DRIVE COACHES and other teams: hands off the controls. Once the MATCH starts, DRIVE COACHES \nor members of another team may not handle the gamepads of the OPERATOR CONSOLE.  \nViolation: VERBAL WARNING. MAJOR FOUL and YELLOW CARD per MATCH, if STRATEGIC. \nIf a team is facing extenuating circumstances due to a major conflict (i.e., \nreligious holidays, major testing, transportation issues), that team should discuss \nwith FIELD STAFF whether an accommodation is available. \nDRIVE COACHES, if desired, may help the DRIVERS in the following ways:  \nA. holding the DRIVER STATION device,  \nB. troubleshooting the DRIVER STATION device, \nC. selecting OpModes on the DRIVER STATION app,  \nD. pressing the INIT button on the DRIVER STATION app,  \nE. pressing the (▶) start button on the DRIVER STATION app, or  \nF. pressing the (■) stop button on the DRIVER STATION app."
+  },
+  {
+    "rule": "G424",
+    "category": "G",
+    "number": 424,
+    "section": "11",
+    "section_name": "Game Rules (G)",
+    "pdf_page": 114,
+    "text": "G424 *DRIVE COACHES, SCORING ELEMENTS are off limits. DRIVE COACHES may not contact SCORING \nELEMENTS, except for safety purposes. \nViolation: VERBAL WARNING. MINOR FOUL per instance, if STRATEGIC."
+  },
+  {
+    "rule": "G425",
+    "category": "G",
+    "number": 425,
+    "section": "11",
+    "section_name": "Game Rules (G)",
+    "pdf_page": 115,
+    "text": "G425 *DRIVE TEAMS, watch your reach. Once a MATCH starts, a DRIVE TEAM member may not directly or \nindirectly:  \nA. contact a ROBOT, \nB. contact a SCORING ELEMENT in contact with a ROBOT or TILE, \nC. disrupt SCORING ELEMENT scoring, or \nD. contact a FIELD element. \nViolation: VERBAL WARNING. MAJOR FOUL and YELLOW CARD per MATCH, if STRATEGIC. \nHand-held controllers, hanging wires, items of clothing, and other objects in the \nALLIANCE AREA can all result in DRIVE TEAM members indirectly contacting a \nROBOT, and would be violations of this rule. \nExceptions are granted in cases concerning safety. \nFor G425.A and G425.B, the penalty is applied to the DRIVE TEAM member \nregardless of whether the DRIVE TEAM member or ROBOT initiates contact. \nDisrupting scoring includes, but is not limited to: \nA. blocking a ROBOT from scoring in a FLOWER, or \nB. deliberately hitting or shaking the perimeter wall to descore NECTAR or \nPOLLEN from the FLOWER."
+  },
+  {
+    "rule": "G426",
+    "category": "G",
+    "number": 426,
+    "section": "11",
+    "section_name": "Game Rules (G)",
+    "pdf_page": 115,
+    "text": "G426 Humans may not enter NECTAR onto the FIELD early. DRIVE TEAM members may not enter NECTAR \nonto the FIELD except: \nA. each time the HIVE of their corresponding ALLIANCE color is TIPPED, one NECTAR may be \nentered for that ALLIANCE, or \nB. when 60 seconds or less remain in the MATCH, all remaining NECTAR can be entered \nwhichever comes first. \nViolation: MINOR FOUL per NECTAR. \nThe primary FIELD timer is the cue to indicate when there is 60 seconds left in \nthe MATCH.  \nDRIVE TEAMS are encouraged to ensure the remaining NECTAR in their \nALLIANCE AREA is visible and make it obvious and unambiguous to REFEREES \nthat they are not entering NECTAR too early."
+  },
+  {
+    "rule": "G427",
+    "category": "G",
+    "number": 427,
+    "section": "11",
+    "section_name": "Game Rules (G)",
+    "pdf_page": 115,
+    "text": "G427 Humans, only enter NECTAR via the LOADING ZONE. NECTAR may not be introduced to the FIELD, \nexcept as follows: \nA. without the use of a tool,  \nB. by a DRIVE TEAM member of the ALLIANCE of the corresponding color, and  \nC. such that NECTAR contacts the TILE within the LOADING ZONE before contacting a ROBOT \nor a FIELD element. \nViolation: MINOR FOUL per NECTAR. \nThe intent of this rule is to only allow DRIVE TEAM members to introduce their \nown NECTAR into the LOADING ZONE. While there are limited restrictions on how \nthat is done, teams should not attempt to push the boundaries of this rule to gain \ncompetitive advantage."
+  },
+  {
+    "rule": "G428",
+    "category": "G",
+    "number": 428,
+    "section": "11",
+    "section_name": "Game Rules (G)",
+    "pdf_page": 116,
+    "text": "G428 Humans, don’t remove SCORING ELEMENTS from the FIELD. DRIVE TEAM members may not remove \nSCORING ELEMENTS from the FIELD.  \nViolation: MINOR FOUL per SCORING ELEMENT.  \nA SCORING ELEMENT is considered on the FIELD if it is contacting a TILE, or in \nand/or on a ROBOT, FIELD element, or SCORING ELEMENT."
+  },
+  {
+    "rule": "R101",
+    "category": "R",
+    "number": 101,
+    "section": "12",
+    "section_name": "ROBOT Construction",
+    "pdf_page": 119,
+    "text": "R101 *It is your team’s ROBOT. The ROBOT and its MAJOR MECHANISMS must be built by the FIRST Tech \nChallenge team that has registered for the event and intends to use the ROBOT to participate in \nMATCHES or as part of judged awards.  \nA MAJOR MECHANISM is a group of COMPONENTS and/or MECHANISMS assembled together to \naddress at least 1 game challenge: ROBOT movement, SCORING ELEMENT manipulation, FIELD \nelement manipulation, or performance of a scorable task without the assistance of another ROBOT.  \nThis rule requires that the ROBOT and its MAJOR MECHANISMS were built by its \nteam but is not intended to prohibit or discourage assistance from other teams \n(e.g., fabricating elements, supporting construction, writing software, developing \ngame strategy, contributing COMPONENTS, and/or MECHANISMS).  \nExamples that would generally not be considered MAJOR MECHANISMS, and \nthus are not subject to this rule include, but are not limited to:  \nA. a gearbox assembly, \nB. a COMPONENT or MECHANISM that is part of a MAJOR MECHANISM, or  \nC. COTS items. \nThe intent of this rule is that a team’s ROBOT is a product that’s representative of \nthe current team members’ experience and is intended to discourage complete \nsolutions which are provided wholly by outside organizations or companies. Also \nsee R301 and R303."
+  },
+  {
+    "rule": "R102",
+    "category": "R",
+    "number": 102,
+    "section": "12",
+    "section_name": "ROBOT Construction",
+    "pdf_page": 120,
+    "text": "R102 *STARTING CONFIGURATION is limited to an 18-inch Cube. In the STARTING CONFIGURATION (the \nphysical configuration in which a ROBOT starts a MATCH), all parts of the ROBOT must be fully \nstationary, and the ROBOT must be fully self-contained within an 18 in. (45.70 cm) wide, by 18 in. \n(45.70 cm) long, by 18 in. (45.70 cm) high volume.  \nIf a ROBOT uses interchangeable MECHANISMS per 3.3 MATCH Eligibility \nRules, teams should be prepared to show compliance with this rule and R105 in \nall configurations. \nAny pre-loaded SCORING ELEMENTS may extend outside the starting size \nconstraint."
+  },
+  {
+    "rule": "R103",
+    "category": "R",
+    "number": 103,
+    "section": "12",
+    "section_name": "ROBOT Construction",
+    "pdf_page": 120,
+    "text": "R103 *ROBOTS may assist in holding the STARTING CONFIGURATION. In the STARTING CONFIGURATION, \nROBOTS must be fully self-supported (i.e., does not exert force on the sides or top of a sizing tool). \nROBOTS may accomplish this using any combination of: \nA. mechanical means while powered-off, and/or \nB. initializing an OpMode that pre-positions servos and motors to a desired stationary position. \nOpMode may control motors and servos to hold their position to maintain the STARTING \nCONFIGURATION. \nROBOTS holding STARTING CONFIGURATION during inspection or waiting for a \nMATCH to start may have to do so for several minutes and should limit the \npossibility of thermal failure (e.g., not having motors stalled against a hard stop). \nTeams should be especially cautious when operating a running ROBOT during \ninspection, please notify the INSPECTOR that the ROBOT is live."
+  },
+  {
+    "rule": "R104",
+    "category": "R",
+    "number": 104,
+    "section": "12",
+    "section_name": "ROBOT Construction",
+    "pdf_page": 120,
+    "text": "R104 *There is no ROBOT weight limit. There is no explicit weight limit for FIRST Tech Challenge ROBOTS \nplaying BIOBUZZ. \nWhile there is no official weight limit, teams should still consider the impact of a \nROBOT’S weight on various factors including, but not limited to:  \n− FIELD TILE damage \n− battery consumption  \n− ROBOT transportation \n− overall ROBOT performance"
+  },
+  {
+    "rule": "R105",
+    "category": "R",
+    "number": 105,
+    "section": "12",
+    "section_name": "ROBOT Construction",
+    "pdf_page": 121,
+    "text": "R105 A ROBOT must stay as one assembly, and there are limits to how much it can expand. After the \nMATCH has started, ROBOTS may expand beyond the STARTING CONFIGURATION but are still subject \nto sizing constraints relative to the ROBOT, based on the initial STARTING CONFIGURATION. The sizing \nconstraints are: \nA. After the start of the MATCH, ROBOTS may expand beyond the STARTING CONFIGURATION \nbut at all times must remain within a 18 in. (45.70 cm) by 24 in. (61.0 cm) by 29 in. (73.65 \ncm) tall sizing volume when fully expanded per G416, \nB. ROBOTS must be physically constrained to fit within these limits without the use of \nsoftware, and \nC. ROBOTS may not be designed to deliberately detach COMPONENTS. \nThe sizing limit volume is defined relative to the FIELD surface and is oriented such that the 29 in. \n(73.65 cm) dimension is always the vertical height above the FIELD surface. \nFigure 12-1: Expansion Limit – Top View \n \nFigure 12-2: Expansion Limit – Side View"
+  },
+  {
+    "rule": "R201",
+    "category": "R",
+    "number": 201,
+    "section": "12",
+    "section_name": "ROBOT Construction",
+    "pdf_page": 123,
+    "text": "R201 *ROBOTS should be designed so they don’t damage anything or make a mess in the ARENA. The \nROBOT must not pose a risk of making a mess or pose a hazard to anything in the ARENA. \nThe intent of this rule is that teams should design their ROBOTS in a way that will \navoid damage to the ARENA and minimize the risk of ROBOTS releasing \nmaterials that would require cleanup and may result in damage and/or MATCH \ndelays. \nSCORING ELEMENTS are expected to undergo a reasonable amount of wear and \ntear as they are handled by ROBOTS, such as scratching or marking. Gouging, \ntearing off pieces, or routinely and repeatedly marking SCORING ELEMENTS are \nviolations of this rule and G406.  \nExamples of “damage risk” ROBOT features include, but are not limited to: \nA. traction devices with features that are known to damage the TILE floor, \nB. COMPONENTS with exposed sharp edges or sharp protrusions, and \nC. features with abrasive surfaces that scratch objects that rub across them."
+  },
+  {
+    "rule": "R202",
+    "category": "R",
+    "number": 202,
+    "section": "12",
+    "section_name": "ROBOT Construction",
+    "pdf_page": 124,
+    "text": "R202 *Design ROBOTS and OPERATOR CONSOLES for safety and fair play. ROBOT and OPERATOR \nCONSOLE parts shall not be made from hazardous materials, be unsafe, cause an unsafe condition, or \ninterfere with the operations of other ROBOTS or FIELD STAFF.  \nExamples of items that may violate this rule include, but are not limited to: \nA. shields, curtains, or any other devices solely designed or used to limit the \nvision of any DRIVE TEAM members, \nB. audio devices that generate sound at a level sufficient to be a distraction or \nmimic MATCH sounds, \nC. any devices or decorations specifically intended to interfere with the remote \nsensing capabilities of another ROBOT, including vision systems, acoustic \nrange finders, sonars, infrared proximity detectors, etc. This includes imagery \non your ROBOT that utilizes or closely mimics 36h11 AprilTags, \nD. flammable gasses or any device intended to produce flames or pyrotechnics, \nE. hazardous materials like liquid mercury or lead, \nF. high intensity light sources used on the ROBOT should only be illuminated for \na brief time while targeting and may invite additional scrutiny, and teams may \nbe asked to disable or modify their lighting at the discretion of the Head \nREFEREE and/or LRI, \nG. animal based materials, \nH. any device designed to damage or flip competing ROBOTS,  \nI. devices or conditions that pose an unnecessary risk of entanglement, \nJ. decorative or functional lighting which flashes at greater than 5Hz will invite \nadditional scrutiny and teams may be asked to disable or modify their lighting \nat the discretion of the Head REFEREE and/or LRI, and \nK. other items not listed which violate the spirit of the rule regarding safe and \nfair play."
+  },
+  {
+    "rule": "R203",
+    "category": "R",
+    "number": 203,
+    "section": "12",
+    "section_name": "ROBOT Construction",
+    "pdf_page": 124,
+    "text": "R203 *ROBOTS must be designed to be quickly removed from the FIELD without requiring power. ROBOTS \nmust allow removal of SCORING ELEMENTS from the ROBOT and the ROBOT from FIELD elements \nwhile powered off. \nSome events may allow teams to use ROBOT power during FIELD reset (e.g., \ndriving a ROBOT to the edge of the FIELD) but ROBOTS should be designed such \nthat this is not required."
+  },
+  {
+    "rule": "R204",
+    "category": "R",
+    "number": 204,
+    "section": "12",
+    "section_name": "ROBOT Construction",
+    "pdf_page": 124,
+    "text": "R204 *No grabbing the floor. ROBOTS may not use any MECHANISM which is designed to increase \ndownforce by either grabbing FIELD surfaces or by using some form of generated airflow to provide \ndownward suction."
+  },
+  {
+    "rule": "R301",
+    "category": "R",
+    "number": 301,
+    "section": "12",
+    "section_name": "ROBOT Construction",
+    "pdf_page": 125,
+    "text": "R301 *COTS MECHANISMS are legal but have limits. COTS MAJOR MECHANISMS purposefully designed to \ncomplete a game task are prohibited. Allowed exceptions to this rule are: \nA. COTS drive CHASSIS, provided none of the individual parts violate any other rules, and \nB. COTS MAJOR MECHANISMS created as part of the official FIRST Tech Challenge \nStarterBots.  \nCOTS parts are intended to help teams design and build ROBOT MECHANISMS \nto complete game tasks and solve challenges but are not intended to be \npurpose-built solutions to complete game objectives. \nA vendor selling “build to print” manufacturing of publicly available, purpose-built \nsolutions is against the spirit of this rule."
+  },
+  {
+    "rule": "R302",
+    "category": "R",
+    "number": 302,
+    "section": "12",
+    "section_name": "ROBOT Construction",
+    "pdf_page": 125,
+    "text": "R302 *Legal COTS parts and raw materials can be modified. Allowed raw materials and legal COTS parts \ncan be modified (drilled, cut, painted, etc.) as long as no other rules are violated. \nRaw materials refers to unfinished building stock including, but not limited to: \nA. sheet stock, \nB. extruded shapes, \nC. metals, plastic, rubber, and wood, and \nD. magnets."
+  },
+  {
+    "rule": "R303",
+    "category": "R",
+    "number": 303,
+    "section": "12",
+    "section_name": "ROBOT Construction",
+    "pdf_page": 125,
+    "text": "R303 *COTS must be single DoF. COTS COMPONENTS and MECHANISMS must not exceed a single degree \nof mechanical freedom (DoF). Examples of allowed COTS single degree of freedom MECHANISMS and \nCOMPONENTS are as follows: \nA. linear slide kit, \nB. linear actuator kit, \nC. single speed (non-shifting) gearboxes, \nD. pulley, \nE. turntable, \nF. lead screw, and \nG. single DoF gripper. \nAllowed exceptions to this rule are: \nH. ratcheting devices (wrenches, bearings, etc.), \nI. holonomic wheels (omni or mecanum),  \nJ. dead-wheel odometry kits,  \nK. items that transfer motion between misaligned COMPONENTS (such as universal joints, \nflexible shaft couplers, and similar items), and \nL. items that connect structures at variable angles (such as ball joint linkages, rod ends, and \nsimilar items). \nThe intent of this rule also extends to disallow highly specialized individual \nCOMPONENTS only designed to assemble into a multiple DoF COTS \nCOMPONENT.  \nThe general test for a single degree of freedom MECHANISM is whether the \norientation and position of each COMPONENT in the MECHANISM can be"
+  },
+  {
+    "rule": "R304",
+    "category": "R",
+    "number": 304,
+    "section": "12",
+    "section_name": "ROBOT Construction",
+    "pdf_page": 126,
+    "text": "R304 *Custom software, designs, and parts can be reused year-to-year. ROBOT software, designs, and \nFABRICATED ITEMS created before Kickoff are permitted."
+  },
+  {
+    "rule": "R305",
+    "category": "R",
+    "number": 305,
+    "section": "12",
+    "section_name": "ROBOT Construction",
+    "pdf_page": 126,
+    "text": "R305 *SCORING ELEMENTS are not allowed for ROBOT construction. Current season SCORING ELEMENTS \nor replicas of SCORING ELEMENTS are not allowed to be used as part of ROBOT construction."
+  },
+  {
+    "rule": "R401",
+    "category": "R",
+    "number": 401,
+    "section": "12",
+    "section_name": "ROBOT Construction",
+    "pdf_page": 127,
+    "text": "R401 *Minimum of two ROBOT SIGNS per ROBOT. ROBOT SIGNS must be placed in at least 2 separate \nlocations on the ROBOT. These locations must be on opposite or adjacent surfaces of the ROBOT, ≥90 \ndegrees apart. All ROBOT surfaces visible to FIELD STAFF can be used for placing ROBOT SIGNS \nincluding the top of the ROBOT. ROBOT SIGNS must meet the following criteria: \nA. be made of a robust material,  \nB. minimally be 6.5 inches (16.5 cm) wide, \nC. minimally be 2.5 inches (6.4 cm) tall (Figure 12-7), and \nD. be supported by the structure/frame of the ROBOT. \nThe intent of this rule is for FIELD STAFF to easily view ROBOT SIGNS from at \nleast 12 feet (3.65 meters) away before, during, and after the MATCH.  \nROBOT SIGNS should be robust enough to withstand the rigors of MATCH play, \nbut there is no specific guidance on what is robust enough. Teams should make \na good faith effort with whatever they have available. \nFigure 12-7: Team Number ROBOT SIGN Sizing"
+  },
+  {
+    "rule": "R402",
+    "category": "R",
+    "number": 402,
+    "section": "12",
+    "section_name": "ROBOT Construction",
+    "pdf_page": 128,
+    "text": "R402 *ROBOT SIGNS indicate your ALLIANCE. Each ROBOT SIGN must contain a rectangle with a solid red \nor blue opaque background at least 6.5 in. by 2.5 in. (16.50 cm by 6.35 cm) in size to indicate their \nALLIANCE color (Figure 12-7), as assigned in the MATCH schedule at the event. Visible markings on \nROBOT SIGNS when installed on the ROBOT, other than the following, are prohibited: \nA. those required per R403, \nB. small amounts of hook-and-loop tape, hard fasteners, or functional equivalents, \nC. narrow areas of differing colors exposed at corners, folds, or cutouts, \nD. narrow markings on background solely for template purposes, and \nE. cannot be powered or rely on power from any sources to illuminate/reveal ALLIANCE color. \nROBOT SIGNS that are reversible or configurable must not allow the opposite \nALLIANCE color to be visible to FIELD STAFF, except where permitted by this \nrule. \nFigure 12-8: Minimum sized ALLIANCE rectangle"
+  },
+  {
+    "rule": "R403",
+    "category": "R",
+    "number": 403,
+    "section": "12",
+    "section_name": "ROBOT Construction",
+    "pdf_page": 128,
+    "text": "R403 *Team number on ROBOT SIGNS. Team numbers must be displayed and positioned on the ROBOT \nSIGN as shown in Figure 12-7, Figure 12-9, and Figure 12-10 and meet the following additional criteria: \nA. consist of solid opaque white Arabic numbers (e.g., 1,2,3,4) which are approximately 2.25 in. \n(5.70 cm) tall, \nB. there must be a minimum of approximately 0.25 in. (0.60 cm) of background surrounding \nthe numbers, \nC. numbers may not be vertically stacked (Figure 12-10), \nD. be made of robust materials, and \nE. cannot be powered or rely on power from any sources to illuminate/reveal numbers."
+  },
+  {
+    "rule": "R501",
+    "category": "R",
+    "number": 501,
+    "section": "12",
+    "section_name": "ROBOT Construction",
+    "pdf_page": 130,
+    "text": "R501 *Only specific motors are allowed. The only allowed motor actuators are: \nTable 12-1: Motor allowances \nMotor Name Part Numbers \nAvailable Notes \nAndyMark NeveRest 12V DC am-3104, am-3104b  \nAndyMark NeveRest Hex 12V DC am-3104c  \ngoBILDA Yellow Jacket 520x Series 12V DC 5201-0002-0026, etc. 5201, 5202, 5203, and 5204 series \ngoBILDA 5000 Series 12V DC 5000-0002-4008, etc.  \nModern Robotics / MATRIX 12V DC 5000-0002-0001 Discontinued \nNFR Products Yuksel 12V DC NFR-600-100-000  \nREV Robotics HD Hex 12V DC REV-41-1291  \nREV Robotics Core Hex 12V DC REV-41-1300  \nStudica Robotics Maverick 12V DC 75001  \nSWYFT Robotics SWYFT Spike Motor SR-MOTOR-DC-01  \nTETRIX MAX 12V DC 739530, 39530 Discontinued \nTETRIX MAX TorqueNADO 12V DC W44260  \nWATTOS Stingray 12V DC WDM12  \nFactory installed vibration and autofocus motors resident in COTS computing devices (e.g., rumble motor \nin a smartphone); can only be used as part of the device and cannot be removed and/or repurposed. \nThese motors do not count toward the limit in R503. \nMotors integral to a COTS sensor (e.g., LIDAR, scanning sonar), provided the device is not modified \nexcept to facilitate mounting. These motors do not count toward the limit in R503. \nAdditional motors may be added to the legal motor list in future Competition \nManual updates. \nMany legal gearmotors are sold with labeling based on the entire assembly. \nThese motors may be used with or without the provided gearbox, and/or with any \nother compatible gearbox."
+  },
+  {
+    "rule": "R502",
+    "category": "R",
+    "number": 502,
+    "section": "12",
+    "section_name": "ROBOT Construction",
+    "pdf_page": 131,
+    "text": "R502 *Servo usage is restricted. Servo actuators must meet the requirements below. Servos must be \ncompatible with the power regulation devices they are ultimately used with (per R505) and may include \nadditional servo position output interfaces (e.g., 4th Wire Position Feedback). \nTable 12-2: Servo Requirements at 6V \nActuator \nClass \nMechanical \nOutput Power Stall Current  Example Servos (including, but not limited to) \nServo ≤ 8 watts @6V ≤   amps @6V \nAndyMark High-Torque Servos (am-4954) \nAxon MAX+ Servo (Axon MAX+) \nDSSERVO 35KG Coreless (DS3235MG) \nFEETECH Digital Servo (FT5335M-FB) \ngoBILDA Dual Mode Servo (2000-0025-0003) \nREV Robotics Smart Servo (REV-41-1097) \nStudica Multi-Mode Smart Servo (75002) \nLinear Servo N/A ≤ 1 amp @6V \nActuonix Micro Linear Servo (P8-100-252-12-R) \nHitec Linear Servo (HLS12-3050-6V) \nStudica Linear Servo RC Actuator (75014) \nServo mechanical output power is approximated by the following formula (using 6V data reported by \nmanufacturer): \n• Mechanical Output Power = 0.25 x (Stall Torque in N-m) x (No Load Speed in rad/s) \nServos must meet both requirements to be legal for use. Refer to the Inspection \nQuick Reference document for a list of servos that are pre-approved, otherwise \nteams must be able to provide documentation verifying servo specifications. Use \nthe online calculator to verify output power compliance. \nIf a manufacturer does not provide 6V specs, any specs for voltages that exceed \n6V are allowed to be used. \nStall current is the maximum stall current possible for the device at the specified \nvoltage, regardless of any user or VENDOR adjustable software limits that may \nbe available within the servo. \nIt is important to ensure the voltage provided by the intended power regulation \ndevice is within the operating voltage range of the desired servo. The REV \nControl Hub and REV Expansion Hub provide 5V to servos, and the goBILDA \nServo Power Injector, REV Servo Power Module, Studica Servo Power Block, and \nREV Servo Hub provide 6V to servos. While virtually all servos are compatible \nwith 6V, servos with an operating voltage range of 6-8.4 DCV, for example, may \nnot work properly when only provided 5V."
+  },
+  {
+    "rule": "R503",
+    "category": "R",
+    "number": 503,
+    "section": "12",
+    "section_name": "ROBOT Construction",
+    "pdf_page": 132,
+    "text": "R503 *ROBOTS are limited to a total of 8 motors and 8 servos. A ROBOT may not have more than 8 motors \nand 8 servos from the allowable actuator lists per R501 and R502 for all MECHANISMS used in all \nconfigurations. \nIf a ROBOT has multiple configurations used at a single event which use different \nMECHANISMS, the sum total of all motors and servos must be less than or equal \nto the limit set in this rule."
+  },
+  {
+    "rule": "R504",
+    "category": "R",
+    "number": 504,
+    "section": "12",
+    "section_name": "ROBOT Construction",
+    "pdf_page": 132,
+    "text": "R504 *Do not modify actuators unless explicitly allowed. The integral mechanical and electrical system of \nany motor or servo must not be modified. Motors and servos used on the ROBOT shall not be modified \nin any way, except as follows: \nA. the mounting brackets and/or output shaft/interface (including pinion gears) may be \nmodified to facilitate the physical connection of the motor to the ROBOT and actuated part, \nB. the electrical leads may be trimmed to length as necessary and connectors or splices to \nadditional wiring may be added (per R609), and purely electrical enclosures can be \nsubstituted with functionally equivalent replacements, \nC. servos may be modified as specified by the manufacturer (e.g., setting soft limits or \nmodification for continuous rotation), \nD. labeling may be applied to indicate device purpose, connectivity, functional performance, \netc. as long as the team applied label does not obstruct the markings used to identify the \ndevice, \nE. insulation may be applied to electrical terminals, \nF. repairs, provided the original performance and specifications are unchanged, and  \nG. maintenance recommended by the manufacturer."
+  },
+  {
+    "rule": "R505",
+    "category": "R",
+    "number": 505,
+    "section": "12",
+    "section_name": "ROBOT Construction",
+    "pdf_page": 132,
+    "text": "R505 *All actuators must be controlled and powered through approved devices. With the exception of \nservos, fans, or motors integral to sensors of COTS computing devices permitted in R501, all actuator \ncontrol signals must originate from a power regulating device. The only power regulating devices for \nactuators permitted on the ROBOT are:  \nTable 12-3: Power Regulators and Limits \nPower Regulating Device Part Number Load Limit per Device \ngoBILDA 6V Servo Power Injector 3125-0001-0001 2 Servos per Port \nREV Control Hub or Expansion \nHub Motor Ports \nREV-31-1153 / \nREV-31-1595 2 Motors per Port \nREV Control Hub or Expansion \nHub Servo Ports \nREV-31-1153 / \nREV-31-1595 2 Servos per Port \nREV Servo Power Module REV-11-1144 2 Servos per Port  \nREV Robotics Servo Hub REV-11-1855 2 Servos per Port \nREV SPARKmini REV-31-1230 2 Motors per Device \nStudica Servo Power Block 75005 2 Servos per Port"
+  },
+  {
+    "rule": "R506",
+    "category": "R",
+    "number": 506,
+    "section": "12",
+    "section_name": "ROBOT Construction",
+    "pdf_page": 132,
+    "text": "R506 *The use of relays, electromagnets, and electrical solenoid actuators is prohibited. The application of \nelectromechanical actuation through the use of additional relays, electromagnets, electrical solenoid \nactuators, or related systems is prohibited. In addition, the use of relays and electromagnets is also \nprohibited."
+  },
+  {
+    "rule": "R601",
+    "category": "R",
+    "number": 601,
+    "section": "12",
+    "section_name": "ROBOT Construction",
+    "pdf_page": 133,
+    "text": "R601 *ROBOTS can contain only 1 main battery. ROBOTS must contain 1 and only 1 approved 12V NiMH \nmain battery. This battery is only legal source of electrical energy for the ROBOT control system and \nactuation during the competition and must be unaltered from the battery manufacturer state except as \nfollows:  \nA. the fuse may be replaced with a COTS equivalent in-line 20A ATM mini blade fuse installed \nper R610, and  \nB. installed connectors may be replaced with other popular connectors such as Anderson \nPowerpole, XT30, or any connector with a comparable power rating.  \nThe only allowed ROBOT main power battery packs are: \nTable 12-4: Legal ROBOT Main Power Battery Packs \nBattery Pack Part Number Notes \nAndyMark Flat Pack Battery DC 12V am-5290  \ngoBILDA 12V NiMH Nested Battery  3100-0012-0020  \nMatrix 12V 3000mAh NiMH 14-0014 May be labeled as \n“Modern Robotics” \nREV 12V Slim Battery REV-31-1302  \nStudica 12V 3000mAh NiMH 70025  \nTETRIX MAX 12V 3000mAh NiMH W39057 Formerly 739023 \nWATTOS 12V Battery WT-NMH1230  \nThere are many other similar style batteries available from multiple VENDORS, \nbut only the listed manufactures and part numbers are legal for use at FIRST \nTech Challenge Events. \nOther batteries may be used for self-contained devices as listed in R602."
+  },
+  {
+    "rule": "R602",
+    "category": "R",
+    "number": 602,
+    "section": "12",
+    "section_name": "ROBOT Construction",
+    "pdf_page": 133,
+    "text": "R602 *Other batteries are only allowed for self-contained peripheral devices and LEDs only. COTS USB \nbattery packs with a capacity of 100Wh or less (27,000mAh at 3.7V), with 5V/5A max output or 12V/5A \nmax output using USB-PD per port, and batteries integral to a self-contained devices such as camera \n(e.g., GoPro-style camera) may be used provided they are: \nA. not supplying power to any of the ROBOT actuators, and \nB. not used by any devices receiving control signals from the ROBOT control system (i.e., COTS \nUSB battery packs must remain electrically isolated from the ROBOT power systems.). \nExceptions to part B of this rule are: \ni. powered USB Hubs, and \nii. ROBOT CONTROLLER smartphones. \nAny device receiving signals from a REV Control or Expansion Hub must be \npowered by the main ROBOT battery."
+  },
+  {
+    "rule": "R603",
+    "category": "R",
+    "number": 603,
+    "section": "12",
+    "section_name": "ROBOT Construction",
+    "pdf_page": 133,
+    "text": "R603 *Connect the ROBOT battery though the Main Power Switch. Exactly one main power switch must \ncontrol all power provided by the ROBOT battery pack to all power regulating devices on the ROBOT \n(except as specified by R602) such that all the following conditions are met:"
+  },
+  {
+    "rule": "R604",
+    "category": "R",
+    "number": 604,
+    "section": "12",
+    "section_name": "ROBOT Construction",
+    "pdf_page": 134,
+    "text": "R604 *Fuses must be used as directed and must not be modified. The intent of this rule is that teams utilize \nfuses as directed by a device manufacturer, and do not attempt to gain a competitive advantage by \nmodifying the fuses, replacing the fuses with ones that have a higher trip point, or replacing them with \nfuses that are self-resetting."
+  },
+  {
+    "rule": "R605",
+    "category": "R",
+    "number": 605,
+    "section": "12",
+    "section_name": "ROBOT Construction",
+    "pdf_page": 134,
+    "text": "R605 *The ROBOT frame cannot be used as a current path. All wiring and electrical devices shall be \nelectrically isolated from the ROBOT frame. The ROBOT frame must not be used to carry electrical \ncurrent. Electrically grounding the control system electronics to the frame of the ROBOT is only \npermitted such that all of the following conditions are met: \nA. straps/cables used must be from the following approved parts:  \nTable 12-6: Legal ROBOT Grounding Straps \nGrounding Strap Part Number \nAndyMark Resistive Grounding Strap am-4648a \nREV Resistive Grounding Strap REV-31-1269 \nSwyft Grounding Cable SR-Ground-01 \nB. the strap/cable must directly connect to a fully COTS COMPONENT with an XT30 connector, \nand also must connect directly to the frame of the ROBOT (via the resistive terminal), and \nC. no ROBOT COMPONENTS or MECHANISMS are designed to electrically ground the ROBOT \nframe to the FIELD."
+  },
+  {
+    "rule": "R606",
+    "category": "R",
+    "number": 606,
+    "section": "12",
+    "section_name": "ROBOT Construction",
+    "pdf_page": 135,
+    "text": "R606 *ROBOT CONTROLLER and the ROBOT electrical system must be inspectable. ROBOT electrical \nCOMPONENTS must be mounted with accessibility in mind, as follows: \nA. all power regulating devices (per R505), associated wiring, and all fuses must be able to be \nmade visible for inspection, and \nB. the ROBOT CONTROLLER device must be mounted on the ROBOT such that the diagnostic \nlights, or device screen if applicable, can be visible for inspection. \n“Visible for inspection” does not require that the items be visible when the \nROBOT is in STARTING CONFIGURATION or normally during a MATCH, provided \nthe team can make the items viewable during the inspection process if \nnecessary. \nTeams are strongly encouraged to make the diagnostic lights visible in all \nROBOT configurations used during normal MATCH play. If diagnostic LEDs are \nnot visible during a MATCH, FIELD STAFF may not be able to provide \ncomprehensive support to the team."
+  },
+  {
+    "rule": "R607",
+    "category": "R",
+    "number": 607,
+    "section": "12",
+    "section_name": "ROBOT Construction",
+    "pdf_page": 135,
+    "text": "R607 *Custom Circuits must not provide regulated power above 5V unless they are only powering LEDs. \nAny active electrical item that is not an actuator (specified in R501) or power regulation device \n(specified in R505) is considered a CUSTOM CIRCUIT. CUSTOM CIRCUITS shall not provide regulated \noutput voltages exceeding 5V, except if solely used for powering LEDs. CUSTOM CIRCUITS may pass \nthrough unregulated battery voltage."
+  },
+  {
+    "rule": "R608",
+    "category": "R",
+    "number": 608,
+    "section": "12",
+    "section_name": "ROBOT Construction",
+    "pdf_page": 135,
+    "text": "R608 *All Power regulating devices must be connected and powered through approved ports. All power \nregulating devices (R505) must be powered per the manufacturer’s instructions and the following table \nmust be true:  \nTable 12-7: Power Regulation Device Power Requirements \nPower Regulating Device Part Number Method of Powering \ngoBILDA 6V Servo Power Injector 3125-0001-0001 Only powered using the XT30 connectors on the \ndevice by the ROBOT main battery \nREV Control Hub /  \nREV Expansion Hub  \nREV-31-1153 / \nREV-31-1595 \nOnly powered using the XT30 connectors on the \ndevice by the ROBOT main battery \nREV Servo Power Module REV-11-1144 Only powered using the screw terminals and must \nonly be powered by the ROBOT main battery \nREV Robotics Servo Hub REV-11-1855 Only powered using the power terminals and must \nonly be powered by the ROBOT main battery \nREV SPARKmini REV-31-1230 Only powered by the Power input and must only be \npowered by the ROBOT main battery \nStudica Servo Power Block 75005 Only powered by JST-VH power connector, and \nmust only be powered by the ROBOT main battery"
+  },
+  {
+    "rule": "R609",
+    "category": "R",
+    "number": 609,
+    "section": "12",
+    "section_name": "ROBOT Construction",
+    "pdf_page": 135,
+    "text": "R609 *Use appropriately sized wire. All circuits shall be wired with appropriately sized insulated wire:"
+  },
+  {
+    "rule": "R610",
+    "category": "R",
+    "number": 610,
+    "section": "12",
+    "section_name": "ROBOT Construction",
+    "pdf_page": 136,
+    "text": "R610 *Use specified wire colors for specific buses. The 12V main power bus and +5V auxiliary bus wires \nmust be color-coded along their entire length. The following colors must be used:  \nA. positive (e.g., +12VDC / +5V Aux): red, yellow, white, brown, or black-with-stripe, and \nB. negative (e.g., common/GND): black or blue. \nNote: this rule does not apply to other types of wires including, but not limited to: \nmotor wiring, signal level wiring (e.g., encoder and sensor wires), servo cables, \nand extensions, or wires originally attached to legal devices by their \nmanufacturer."
+  },
+  {
+    "rule": "R611",
+    "category": "R",
+    "number": 611,
+    "section": "12",
+    "section_name": "ROBOT Construction",
+    "pdf_page": 136,
+    "text": "R611 *Powered USB hubs must draw energy from approved sources. Powered USB hubs used on the \nROBOT can only be powered through one of the following ways:  \nA. an approved COTS USB battery Pack per R602, or \nB. the 5V auxiliary power port on the REV Expansion Hub or REV Control Hub."
+  },
+  {
+    "rule": "R612",
+    "category": "R",
+    "number": 612,
+    "section": "12",
+    "section_name": "ROBOT Construction",
+    "pdf_page": 136,
+    "text": "R612 *Do not modify critical power paths. CUSTOM CIRCUITS must not directly alter the power or control \npathways between:  \nA. the ROBOT battery and main power switch,  \nB. the main power switch and a power regulating device (per R603),  \nC. any two power regulating devices (per R607), or"
+  },
+  {
+    "rule": "R613",
+    "category": "R",
+    "number": 613,
+    "section": "12",
+    "section_name": "ROBOT Construction",
+    "pdf_page": 137,
+    "text": "R613 *Do not mix and match power on or between power regulation devices. The following rules must be \nadhered to when using power on any power regulation device (per R505): \nA. sensors, encoders, and other devices must be powered solely by the power regulation \ndevice they are connected to. Do not use outside power sources (e.g., custom circuits or a \nsecond hub) to power them, \nB. power from a specific port may only power devices plugged into that exact port. Do not \ncross-wire power to other ports, and do not combine power from multiple ports into a single \npower bus/line, \nC. 6V power from approved Servo Power modules/injectors may only be used to power servos, \nand \nD. the +5V Aux port on a REV hub may be used to power devices not connected to other power \nregulation devices except via USB. \n12.7 Control, Command & Signals System"
+  },
+  {
+    "rule": "R701",
+    "category": "R",
+    "number": 701,
+    "section": "12",
+    "section_name": "ROBOT Construction",
+    "pdf_page": 137,
+    "text": "R701 *Control the ROBOT with a single ROBOT CONTROLLER. ROBOTS must be controlled via 1 \nprogrammable ROBOT CONTROLLER. The ROBOT CONTROLLER is the only source of control for the \nROBOT actuators and must be comprised of: \nA. a REV Control Hub (REV-31-1595), or \nB. a smartphone Android device connected to a REV Expansion Hub (REV-31-1153). \nIn addition to A or B, a ROBOT may also contain: \nC. no more than one additional REV Expansion Hub (REV-31-1153). \nWe recommend teams always keep all control system device software up to \ndate. Check the FIRST Tech Challenge Firmware Update Page for release \nannouncements and most recent software versions.  \nDue to unpredictable variations in Android software across different \nmanufacturers and updates, the REV Control Hub is the only officially supported \nROBOT CONTROLLER device. Teams choosing to use any other unsupported \ndevice (e.g., smartphones) are responsible for testing and verifying its \ncompatibility, functionality, and performance."
+  },
+  {
+    "rule": "R702",
+    "category": "R",
+    "number": 702,
+    "section": "12",
+    "section_name": "ROBOT Construction",
+    "pdf_page": 137,
+    "text": "R702 *Teams may not alter coprocessor software. Modifying software on coprocessors, unless explicitly \npermitted in this rule, is not allowed by teams. Firmware updates in binary form provided by the \nmanufacturer may be applied as directed by the manufacturer. Programmable vision coprocessors"
+  },
+  {
+    "rule": "R703",
+    "category": "R",
+    "number": 703,
+    "section": "12",
+    "section_name": "ROBOT Construction",
+    "pdf_page": 138,
+    "text": "R703 *Smartphone Android devices used as a ROBOT CONTROLLER must connect to the REV Expansion \nHub using USB. If used as a ROBOT CONTROLLER, the smartphone Android device must be connected \nvia its integrated USB port to a REV Expansion Hub with any combination of USB cables (including USB \nOTG cables) and/or USB hubs (powered or unpowered, with or without OTG integrated into the hub)."
+  },
+  {
+    "rule": "R704",
+    "category": "R",
+    "number": 704,
+    "section": "12",
+    "section_name": "ROBOT Construction",
+    "pdf_page": 138,
+    "text": "R704 * Use networks and bandwidth as directed. Teams and ROBOTS must use Wi-Fi networks and \nbandwidth in a way that enables fair play and does not interfere with other teams or ARENA operations. \nTeams must abide by the following guidelines:  \nA. Teams may not use any other form of wireless communication, except those offered by the \nprovided official tools, to communicate to, from, or within the ROBOT. \nB. Teams may not interfere with the ROBOT networks. All communication signals must \noriginate from only the ROBOT CONTROLLER device or the DRIVER STATION device using"
+  },
+  {
+    "rule": "R705",
+    "category": "R",
+    "number": 705,
+    "section": "12",
+    "section_name": "ROBOT Construction",
+    "pdf_page": 139,
+    "text": "R705 *Configure devices for your team number. The ROBOT CONTROLLER, DRIVER STATION, and any \nspares used must be configured/named to correspond to the correct team number as follows: \nA. ROBOT CONTROLLER should be named <team number>-RC (e.g., 12345-RC), \nB. DRIVER STATION should be named <team number>-DS (e.g., 12345-DS), and \nC. If a spare ROBOT CONTROLLER or DRIVER STATION is configured, a letter designator may \nbe added <team number>-<letter>-RC/DS (e.g., 12345-A-DS, 12345-B-DS)  \nSee the DRIVER STATION Instructions and ROBOT CONTROLLER Instructions for \na detailed procedure for updating DRIVER STATION and ROBOT CONTROLLER \n“names.”"
+  },
+  {
+    "rule": "R706",
+    "category": "R",
+    "number": 706,
+    "section": "12",
+    "section_name": "ROBOT Construction",
+    "pdf_page": 139,
+    "text": "R706 *Only specified modifications to core control system devices are permitted. The DRIVER STATION \ndevice and software, Android-based ROBOT CONTROLLER device, main and secondary power \nswitch(es), power regulation devices, fuses, and batteries shall not be tampered with, modified, or \nadjusted in any way (tampering includes drilling, cutting, machining, rewiring, disassembling, painting, \nremoving enclosures and replacing with custom enclosures, etc.), with the following exceptions: \nA. wires, cables, and signal lines may be connected via the standard connection points \nprovided on the devices, \nB. fasteners (including adhesives) may be used to attach devices to the OPERATOR CONSOLE \nor ROBOT or to secure cables to the device, \nC. thermal interface material may be used to improve heat conduction, \nD. labeling may be applied to indicate device identification, purpose, connectivity, functional \nperformance, etc. as long as they do not cover labels or markings used to identify the \nproduct, \nE. jumpers or switches may be moved to configure devices per the manufacturer’s manual, \nF. device firmware may be updated with manufacturer supplied firmware, \nG. integral wires on motor controllers and batteries may be cut, stripped, and/or connectorized, \nH. devices except batteries may be repaired, provided the performance and specifications of \nthe device after the repair are identical to those before the repair,  \nI. insulating material may be added to exposed conductors,  \nJ. tape may be applied for debris protection, and \nK. power switch mounting brackets can be modified or replaced. \nPlease note that while repairs are permitted, the allowance is independent of any \nmanufacturer’s warranty. Teams make repairs at their own risk and should"
+  },
+  {
+    "rule": "R707",
+    "category": "R",
+    "number": 707,
+    "section": "12",
+    "section_name": "ROBOT Construction",
+    "pdf_page": 141,
+    "text": "R707 *USB is for vision. Only the following devices may be connected to the ROBOT control system using \nUSB: \nA. webcams and optical vision sensors per R708, \nB. USB hub or USB switch, and \nC. a REV Expansion Hub."
+  },
+  {
+    "rule": "R708",
+    "category": "R",
+    "number": 708,
+    "section": "12",
+    "section_name": "ROBOT Construction",
+    "pdf_page": 141,
+    "text": "R708 *Use only supported USB vision. Only single image sensor vision devices that are natively supported by \nthe ROBOT CONTROLLER app are allowed to connect to USB (stereoscopic cameras are not allowed). \nThis includes the following: \nA. all UVC compatible USB webcams (Logitech C270, and related), and \nB. Vision coprocessors allowed per R702. \nUVC compatible USB webcams may only use the UVC provided stream / data. No \nother interfaces or data provided by the webcam may be used. \nTo request support (or to provide sample drivers) for alternate USB vision \ndevices for inclusion in future FIRST Tech Challenge seasons, please send an \nemail to customerservice@firstinspires.org with the following details: \n− Subject of email should be: “USB Vision Future Support Request” \n− Contact details for providing feedback or clarifications \n− Details on the device requesting support"
+  },
+  {
+    "rule": "R709",
+    "category": "R",
+    "number": 709,
+    "section": "12",
+    "section_name": "ROBOT Construction",
+    "pdf_page": 141,
+    "text": "R709 *Recording devices are okay. Self-contained video recording devices (GoPro or similar) are allowed \nproviding they are used only for non-functional post-MATCH viewing and the wireless capability is \nturned off."
+  },
+  {
+    "rule": "R710",
+    "category": "R",
+    "number": 710,
+    "section": "12",
+    "section_name": "ROBOT Construction",
+    "pdf_page": 141,
+    "text": "R710 *Lasers are only allowed if they’re part of a sensor, low-energy, and non-visible. Lasers are not \nallowed unless they meet all of the following criteria: \nA. must be part of a sensor, \nB. must be rated as IEC/EN 60825-1 ”Class I” or IEC/EN    7  “Exempt,” and \nC. must use non-visible spectrum."
+  },
+  {
+    "rule": "R711",
+    "category": "R",
+    "number": 711,
+    "section": "12",
+    "section_name": "ROBOT Construction",
+    "pdf_page": 141,
+    "text": "R711 *Configure Android devices appropriately. ROBOT CONTROLLER and DRIVER STATION Android \ndevices (smartphones, REV Control Hub, REV Driver Hub) must additionally be configured in the \nfollowing ways: \nA. REV Control Hub users must change the Wi-Fi password to a non-default password, \nB. smartphone users must enable Airplane Mode, \nC. on ROBOT CONTROLLER and DRIVER STATION Android devices, Wi-Fi must be enabled and \nBluetooth must be disabled, and \nD. on DRIVER STATION Android devices, remove all remembered Wi-Fi Direct Groups and Wi-Fi \nconnections, leaving only the ROBOT CONTROLLER Wi-Fi connection."
+  },
+  {
+    "rule": "R801",
+    "category": "R",
+    "number": 801,
+    "section": "12",
+    "section_name": "ROBOT Construction",
+    "pdf_page": 142,
+    "text": "R801 *No Pneumatic Actuators, High-Speed Blowers, or Vacuums. ROBOTS are restricted in their use of air \nin the following ways: \nA. ROBOTS may only use sealed, COTS closed-air systems which are pre-charged by the \nmanufacturer (such as gas shocks), \nB. ROBOTS may not use any stored pressure COMPONENTS that are actuated by a device like \na solenoid and/or are able to change their stable state, \nC. ROBOTS may not generate pressure or vacuum,  \nD. ROBOTS may not use any user-adjustable gas storage vessels, except air-filled (pneumatic) \nCOTS wheels, and \nE. ROBOTS may not use any device which creates high-speed airflow, except cooling fans \nintegrated into COTS computing devices. \nThe intent of this rule is that ROBOTS may not use pneumatic actuators, pressure \nor vacuum storage devices, compressors, vacuum generators, or air blowers, but \nthey may use “closed air” systems which were sealed by their manufacturer. This \nincludes items such as gas springs, and dampers. \nExamples of a “device which creates high-speed airflow” include but are not \nlimited to a fan designed to move SCORING ELEMENTS on the FIELD.  \nHigh-speed flywheels or rollers used for manipulating SCORING ELEMENTS \nwould not on their own be considered a high-speed airflow device. \n12.9 OPERATOR CONSOLE"
+  },
+  {
+    "rule": "R901",
+    "category": "R",
+    "number": 901,
+    "section": "12",
+    "section_name": "ROBOT Construction",
+    "pdf_page": 142,
+    "text": "R901 *Use only a specified DRIVER STATION device. The OPERATOR CONSOLE may only have one \napproved Android-based DRIVER STATION device connected and powered on. The OPERATOR \nCONSOLE must have at least one of the following:  \nA. REV Driver Hub (REV-31-1596), or \nB. Any Android Device with or without any combination of USB cables (including USB OTG \ncables) and/or USB hubs (powered or unpowered, with or without OTG integrated into the \nhub) for connecting one or more gamepads. \nDue to unpredictable variations in Android software across different \nmanufacturers and updates, the REV Driver Hub is the only officially supported \nDRIVER STATION device. Teams choosing to use any other unsupported device \n(e.g., smartphones) are responsible for testing and verifying its compatibility, \nfunctionality, and performance. \nTeams who wish to have a spare DRIVER STATION device as part of their \nOPERATOR CONSOLE may do so as long as only one DRIVER STATION device is \nconnected and powered on at a time."
+  },
+  {
+    "rule": "R902",
+    "category": "R",
+    "number": 902,
+    "section": "12",
+    "section_name": "ROBOT Construction",
+    "pdf_page": 143,
+    "text": "R902 *The OPERATOR CONSOLE must make the touch screen accessible. The OPERATOR CONSOLE, the \nset of COMPONENTS and MECHANISMS used by the DRIVE TEAM to relay commands to the ROBOT, \nmust make the touch screen of the DRIVER STATION device accessible. The DRIVER STATION device \nmust be positioned within the OPERATOR CONSOLE so that the screen display can be clearly seen \nduring inspection and in a MATCH. The DRIVER STATION device touch screen must be functional \nwithout the requirement of additional aides (e.g., mouse) in order to be used."
+  },
+  {
+    "rule": "R903",
+    "category": "R",
+    "number": 903,
+    "section": "12",
+    "section_name": "ROBOT Construction",
+    "pdf_page": 143,
+    "text": "R903 *OPERATOR CONSOLE physical requirements. The OPERATOR CONSOLE, including all power sources \n(e.g., power banks), must not exceed a volume of 3ft wide, 1ft 6in deep and 2 ft tall (91.4 cm by 45.7 \ncm by 61.0 cm), excluding any items that are held or worn by the DRIVERS during the MATCH.   \nAlso refer to R203 for restrictions on designing OPERATOR CONSOLES for fair \nplay and ARENA safety. \nPlease note that while there is no hard weight limit, OPERATOR CONSOLES that \nweigh more than 20 lbs. (~9 kg.) will invite extra scrutiny as they are likely to \ndisrupt normal ARENA operations.  \nTeams who wish to have a spare external USB hub as part of the OPERATOR \nCONSOLE may do so as long as only one USB hub is connected at any time. \nThe intent of this rule is to allow teams to use a container to store, organize, and \ntransport the DRIVER STATION device and support electronics. The OPERATOR \nCONSOLE rules are not intended to allow systems that function as a ROBOT cart \nor replace a competition-provided OPERATOR CONSOLE stand, table, etc."
+  },
+  {
+    "rule": "R904",
+    "category": "R",
+    "number": 904,
+    "section": "12",
+    "section_name": "ROBOT Construction",
+    "pdf_page": 143,
+    "text": "R904 *ROBOT application wireless communication only. Other than the connection controlled by the ROBOT \nCONTROLLER app running on the ROBOT and the DRIVER STATION app running on the DRIVER \nSTATION device, no other form of wireless communications shall be used to communicate to, from, or \nwithin the OPERATOR CONSOLE during a MATCH.  \nExamples of prohibited wireless systems include, but are not limited to, active \nwireless network cards, wireless gamepad communication, and Bluetooth \ndevices."
+  },
+  {
+    "rule": "T201",
+    "category": "T",
+    "number": 201,
+    "section": "13",
+    "section_name": "Tournament (T)",
+    "pdf_page": 145,
+    "text": "T201 *Replays are allowed, but rare. MATCH replays are only allowed in extreme circumstances due to an \nARENA FAULT or for MATCHES which are stopped because FIELD STAFF anticipated FIELD damage or \npersonal injury.  \nAn ARENA FAULT is an error in ARENA operation that includes, but is not limited to: \nA. broken FIELD elements due to normal, expected gameplay, \nB. broken FIELD elements due to ROBOT abuse of FIELD elements that affects the outcome of \nthe MATCH for their opponents, \nA broken FIELD element caused by ROBOT abuse that affects the outcome of the \nMATCH for their ALLIANCE is not an ARENA FAULT. \nC. FIELD elements moving beyond normal tolerances (not as the result of ROBOT interaction), \nD. Wide-spread wireless interference affecting multiple ROBOTS typically at the same time and \non both ALLIANCES, \nE. failure of the MATCH timer display, or \nF. errors by FIELD STAFF (except those listed in Section 10.8 Other Logistics). \nIf, as determined by the Head REFEREE, an ARENA FAULT occurs that affects the outcome of the \nMATCH and any team on the affected ALLIANCE desires a replay, the MATCH will be replayed. In \naddition, FIRST Headquarters reserves the right to, with consultation of the Head REFEREE and FIELD \nSTAFF, replay any MATCH in which an ARENA FAULT impacts the outcome of an event. \nUnexpected ROBOT behaviors which are the fault of the team are not \njustifications for a replay. Conditions such as, but not limited to, low ROBOT \nbattery, programming issues, or ROBOT mechanical problems are not grounds \nfor a replay. \nThe outcome of the MATCH is affected if an error occurs that, as perceived by \nthe Head REFEREE, changes which ALLIANCE would have won the MATCH \nand/or the assignment of RANKING POINTS."
+  },
+  {
+    "rule": "T202",
+    "category": "T",
+    "number": 202,
+    "section": "13",
+    "section_name": "Tournament (T)",
+    "pdf_page": 146,
+    "text": "T202 *Replays will replicate the conditions of the original MATCH. All reasonable effort is made to create \nthe same conditions when replaying a MATCH caused by an ARENA FAULT or FIELD damage. This \nincludes: \nA. a ROBOT that was not present for the MATCH or DISABLED prior to the start of the original \nMATCH, which is to be replayed, is DISABLED for the replay MATCH \nB. the same FIELD will be used unless otherwise deemed necessary by the Head REFEREE due \nto severity of FIELD damage \nExceptions to this rule are: \nC. ROBOT and DRIVE TEAM starting locations and pre-loaded SCORING ELEMENTS do not \nneed to be replicated when replaying a MATCH \nWhile efforts will be made to replicate the same conditions of the original \nMATCH, there are environmental factors, such as changes to ambient lighting, \nthat may be outside the control of the event. \n13.3 Clarifications on MATCH Play Results (“Question Box”) \nEach event will have one or more designated Question Boxes in the ARENA area. If a DRIVE TEAM has a \nquestion about a MATCH, the FIELD, etc., they may send up to two representatives wearing a DRIVE TEAM \nbadge to their corresponding Question Box. Depending on timing, the Head REFEREE or FTA may postpone any \nrequested discussion until the end of the subsequent MATCH. \nTechnical questions regarding FIELD or ROBOT operation are addressed by the FTA, and additional team \nmembers are invited to participate in these conversations if necessary. If a DRIVE TEAM needs clarification on \na ruling or MATCH results, per T301, up to two representatives should address the Head REFEREE after the \nMATCH results have been shown.  \nWhile the FIRST event management software tracks quantities of MINOR and MAJOR FOULS, FIRST instructs \nREFEREES to not self-track details about MINOR FOULS and MAJOR FOULS; as a result, we do not expect \nREFEREES to recall details about what MINOR FOULS and MAJOR FOULS were made, when they occurred, and \nagainst whom. \nAny reasonable question is fair game in the Question Box, and Head REFEREES \nwill make good faith efforts to provide helpful feedback (e.g., how/why certain \nFOULS are being called, why a particular ROBOT may be susceptible to certain \nFOULS based on its design or gameplay, how specific rules are being called or \ninterpreted), but please know that they may not be able to supply specific details."
+  },
+  {
+    "rule": "T301",
+    "category": "T",
+    "number": 301,
+    "section": "13",
+    "section_name": "Tournament (T)",
+    "pdf_page": 147,
+    "text": "T301 *Head REFEREE interactions. A team may only address the Head REFEREE with a maximum of 2 \npeople, 1 of which must be a STUDENT. \nViolation: The Head REFEREE will not address additional, non-compliant team members or peripheral \nconversations. \nSome events may restrict ARENA access to members of the DRIVE TEAM. Team \nmembers are permitted to swap buttons within their team as needed to access \nthe Question Box.  \nAs much as possible, the STUDENT should be an active participant in the \nconversation. Teams should not record interactions without consent (see E116)."
+  },
+  {
+    "rule": "T302",
+    "category": "T",
+    "number": 302,
+    "section": "13",
+    "section_name": "Tournament (T)",
+    "pdf_page": 147,
+    "text": "T302 *MATCH questions must be timely. If a team would like to clarify or dispute the results of a MATCH \nusing the process per T301 they must present their STUDENT representative in the Question Box in a \ntimely manner as outlined below: \nA. questions regarding events in a Qualification MATCH may be asked at any time before \nALLIANCE selection begins, or within 5 minutes of the last Qualification MATCH at events \nwithout Playoff MATCHES, and  \nB. questions regarding events in a Playoff MATCH must be asked before the start of the next \nPlayoff round or, for the last Playoff MATCH, immediately following the MATCH.  \nPlease keep in mind that our REFEREES are human, and the more time has \npassed between the MATCH in question, the less likely they are to remember the \ndetails of a specific MATCH. It is best to ask for clarification or to dispute the \nresults of a MATCH within 3 MATCHES. \nTeams are encouraged to ask questions as soon as possible. Questions asked \nmore than 5 minutes after the last Playoff MATCH will likely not be addressed."
+  },
+  {
+    "rule": "T303",
+    "category": "T",
+    "number": 303,
+    "section": "13",
+    "section_name": "Tournament (T)",
+    "pdf_page": 147,
+    "text": "T303 *Keep questions factual and constructive. Teams coming to the Question Box should think through \ntheir requests in advance and are encouraged to have relevant references to rules or the Q&A website \navailable to aid discussions. \nThere should be no negative implications for teams using the Question Box to \nadvocate for themselves, but everyone should keep in mind it can be a high \nstress situation for team youth and for volunteers alike and it is important to \nremember FIRST Core Values during these discussions.  \nAt some events, MATCH results may be available on the FTC-Events page. \n13.4 General Tournament Rules"
+  },
+  {
+    "rule": "T401",
+    "category": "T",
+    "number": 401,
+    "section": "13",
+    "section_name": "Tournament (T)",
+    "pdf_page": 147,
+    "text": "T401 *The Head REFEREE has ultimate and final authority regarding gameplay during the event. The Head \nREFEREE may receive input from additional sources, e.g., FIRST personnel, FTA, Event Director, \nProgram Delivery Partner, and other event staff. The Head REFEREE rulings are final. No event staff, \nincluding the Head REFEREE, will review video, photos, artistic renderings, etc. of any MATCH, from any \nsource, under any circumstances. \nA. When issuing a RED CARD or YELLOW CARD the Head REFEREE must record the rule \nviolation. \nB. Event Directors and Program Delivery Partners may not overrule a Head REFEREE decision."
+  },
+  {
+    "rule": "T402",
+    "category": "T",
+    "number": 402,
+    "section": "13",
+    "section_name": "Tournament (T)",
+    "pdf_page": 148,
+    "text": "T402 *Only REFEREES can declare a ROBOT DISABLED. A ROBOT is only considered DISABLED once a \nREFEREE has declared the ROBOT DISABLED during a MATCH. A ROBOT may be DISABLED as a \nconsequence of a rule violation or due to a ROBOT failure. If a REFEREE DISABLES a ROBOT as a \nconsequence for a rule violation, the REFEREE may instruct the team to drive the ROBOT to a specific \nneutral position on the FIELD before DISABLING."
+  },
+  {
+    "rule": "T403",
+    "category": "T",
+    "number": 403,
+    "section": "13",
+    "section_name": "Tournament (T)",
+    "pdf_page": 148,
+    "text": "T403 *The Event Director has ultimate authority regarding all non-gameplay decisions during an event. The \nCompetition Manual is intended to provide a set of rules for the competition including gameplay and \njudging but it is not an exhaustive compilation of guidelines for running a FIRST Tech Challenge event.  \nIssues outside of specific gameplay rules which are under the authority of the Head REFEREE per T401 \nare at the discretion of the Event Director such as, but not limited to: \nA. venue access as published via the public schedule, \nB. pit sizes and utility access, \nC. health and safety, \nD. team registration and competition eligibility, and \nE. team conduct away from the ARENA."
+  },
+  {
+    "rule": "T404",
+    "category": "T",
+    "number": 404,
+    "section": "13",
+    "section_name": "Tournament (T)",
+    "pdf_page": 148,
+    "text": "T404 *All competition FIELDS at an event must be consistent with each other. Events which have multiple \ncompetition FIELDS (as indicated by the MATCH schedule Figure 13-1) will be consistent with each \nother. Examples of set-up which must be considered includes, but is not limited to: \nA. elevation of the FIELD off the floor, \nB. FIELD display monitors, \nC. FIELD perimeter type, and \nD. FIELD TILE size and type. \nOther FIELDS (e.g., practice FIELDS) at the event do not need to be consistent \nwith each other or competition FIELDS."
+  },
+  {
+    "rule": "T405",
+    "category": "T",
+    "number": 405,
+    "section": "13",
+    "section_name": "Tournament (T)",
+    "pdf_page": 148,
+    "text": "T405 *During optional FIELD measurement and calibration time(s) ROBOTS may not practice on the FIELD. \nDuring any period when the ARENA is open for measurement, ROBOTS may run OpModes but cannot \nmove the ROBOT (e.g., CHASSIS) under its own power around the FIELD. \nViolation: VERBAL WARNING. YELLOW CARD if subsequent violations occur during the event."
+  },
+  {
+    "rule": "T406",
+    "category": "T",
+    "number": 406,
+    "section": "13",
+    "section_name": "Tournament (T)",
+    "pdf_page": 149,
+    "text": "T406 *No team timeouts, but MATCHES have breaks. Teams playing in back-to-back MATCHES will have a \nminimum break between their MATCHES as follows: \nA. In Qualification MATCHES, each team will have a minimum of 5 minutes from when the \nMATCH results are posted from their previous MATCH until the expected start time of their \nnext MATCH for the purpose of G301. \nB. In Playoff MATCHES, each team will have a minimum of 8 minutes from when MATCH \nresults are posted from their previous MATCH until the expected start time of their next \nMATCH for the purpose of G301.  \nIf a MATCH’S results will not be posted, (e.g., due to an immediate replay) each \nteam will be afforded a reasonable time to reset at the Head REFEREE’S \ndiscretion.  \nThese breaks are automatically tracked by the FIRST event management system. \nFIELD STAFF will communicate expected start times with teams as appropriate. \nTeams may ask the FTA, Head REFEREE, or their designee about the timing of \naffected MATCHES."
+  },
+  {
+    "rule": "T407",
+    "category": "T",
+    "number": 407,
+    "section": "13",
+    "section_name": "Tournament (T)",
+    "pdf_page": 149,
+    "text": "T407 *MATCHES are played in order. Qualification and Playoff MATCHES will be played in numerical order \nexcept for extenuating circumstances at the discretion of the Head REFEREE in consultation with the \nEvent Director. All Qualification MATCHES must be played before the start of ALLIANCE selection and \nall Playoff MATCHES for the current round must be played before the start of the next round. The \ntiming of MATCHES played out of order or replayed MATCHES will be communicated by FIELD STAFF \nor event personnel to the teams involved."
+  },
+  {
+    "rule": "T601",
+    "category": "T",
+    "number": 601,
+    "section": "13",
+    "section_name": "Tournament (T)",
+    "pdf_page": 153,
+    "text": "T601 *DISQUALIFICATION applies only to the DISQUALIFIED team in Qualifications. During Qualification \nMATCHES, a team DISQUALIFICATION has no effect on their ALLIANCE partner."
+  },
+  {
+    "rule": "T701",
+    "category": "T",
+    "number": 701,
+    "section": "13",
+    "section_name": "Tournament (T)",
+    "pdf_page": 154,
+    "text": "T701 *Send one or two STUDENT representatives. Each team must choose and send a minimum of one and \na maximum of two STUDENT team representatives to the ARENA at the designated ALLIANCE \nselection time (typically just after the last scheduled Qualification MATCH) to represent their team.  \nViolation: Teams who do not send a representative are ineligible for the playoff tournament \nIf an absent team would have been an ALLIANCE lead, all lower ranked \nALLIANCE leads are promoted 1 spot.  \nIf a team is planning to not participate in the playoff tournament, they should \nproactively inform the Event Director and Head REFEREE as soon as possible."
+  },
+  {
+    "rule": "T702",
+    "category": "T",
+    "number": 702,
+    "section": "13",
+    "section_name": "Tournament (T)",
+    "pdf_page": 154,
+    "text": "T702 *Declining teams cannot be picked. An ALLIANCE CAPTAIN may not invite a team that has declined \nanother ALLIANCE’S invitation to participate in the playoff tournament.  \nViolation: The ALLIANCE CAPTAIN must make another selection \nAn ALLIANCE lead that declines an invitation from another ALLIANCE is able to \ninvite teams to join their ALLIANCE but may not be invited to join another \nALLIANCE."
+  },
+  {
+    "rule": "T703",
+    "category": "T",
+    "number": 703,
+    "section": "13",
+    "section_name": "Tournament (T)",
+    "pdf_page": 154,
+    "text": "T703 *There are no backup teams in Playoff MATCHES. An ALLIANCE may not request a backup team in a \nPlayoff MATCH. \nTeams are encouraged to consider reliability when selecting partners because all \nteams on an ALLIANCE must play in each round of the playoff tournament."
+  },
+  {
+    "rule": "T704",
+    "category": "T",
+    "number": 704,
+    "section": "13",
+    "section_name": "Tournament (T)",
+    "pdf_page": 154,
+    "text": "T704 *During Playoff MATCHES, teams may have more ARENA access. At the direction of the Event \nDirector, during the Playoff MATCHES teams may need extra team members to maintain the ROBOT \nbetween MATCHES in a timely manner. Each team is permitted to have up to 3 additional pit crew \nmembers to help with needed ROBOT repairs. These team members should be granted the same \nARENA access as the DRIVE TEAM but may not participate in any MATCH play. \nThis allocation of additional pit crew members is venue specific and at the \ndiscretion of the Event Director."
+  },
+  {
+    "rule": "T705",
+    "category": "T",
+    "number": 705,
+    "section": "13",
+    "section_name": "Tournament (T)",
+    "pdf_page": 154,
+    "text": "T705 *Multiple DISQUALIFICATION is handled specially. During Playoff MATCHES, 1 or more ALLIANCE \nDISQUALIFICATIONS are handled accordingly:  \nA. if an ALLIANCE is DISQUALIFIED, the DISQUALIFIED ALLIANCE loses \nB. if both ALLIANCES are DISQUALIFIED, the one that is DISQUALIFIED first chronologically \nloses  \nC. if, as perceived by the Head REFEREE, both ALLIANCES are simultaneously DISQUALIFIED, \nthe MATCH results in a tie"
+  },
+  {
+    "rule": "T801",
+    "category": "T",
+    "number": 801,
+    "section": "13",
+    "section_name": "Tournament (T)",
+    "pdf_page": 162,
+    "text": "T801 *Divisions will use the same size playoff brackets. The number of playoff ALLIANCES will be \ndetermined based on the number of playoff eligible teams in the smaller division as shown in Table \n13-2."
+  },
+  {
+    "rule": "T802",
+    "category": "T",
+    "number": 802,
+    "section": "13",
+    "section_name": "Tournament (T)",
+    "pdf_page": 162,
+    "text": "T802 *Dual Division awards are given at the event level. All awards are judged and awarded at the \ntournament level, not the division level."
+  },
+  {
+    "rule": "T803",
+    "category": "T",
+    "number": 803,
+    "section": "13",
+    "section_name": "Tournament (T)",
+    "pdf_page": 162,
+    "text": "T803 *Dual Division award counts are based on total teams. The number of awards distributed at a Dual \nDivision event is determined using Table 6-1.  \n13.8.1 Dual Division Advancement Points \nFor Dual Division events, advancement points are calculated per Table 4-1 except for playoff advancement \npoints which are instead calculated as described in Table 13-7 below.  \nTable 13-7: Dual Division Playoff Advancement Points \nCategory Advancement Points Earned \nPlayoff Advancement \n40 points for 1st Place (Winners) \n20 points for 2nd Place (Finalists) \n10 points for all Division Finalists  \n5 points for all Division 3rd Places \n13.8.2 Dual Division Playoffs \nEach division plays a standard tournament as described in Section 13.6 Qualification MATCHES followed \nby Divisional Playoffs to produce the Division Winning ALLIANCE. Those 2 Division Winning ALLIANCES have \ntheir win-loss records reset and proceed to play each other in a 2-ALLIANCE double eliminations bracket. \nDivisions are ranked by the criteria in Table 13-1, excluding RANKING SCORE."
+  },
+  {
+    "rule": "C301",
+    "category": "C",
+    "number": 301,
+    "section": "15",
+    "section_name": "FIRST Championship (C)",
+    "pdf_page": 168,
+    "text": "C301 *Replays use the same ROBOTS. If a Playoff MATCH must be replayed, the 2 ROBOTS used in the \nreplay must be the same as in the original MATCH. The sole exception is: if, in the opinion of the Head \nREFEREE, the ARENA FAULT rendered a ROBOT inoperable, in which case the ROBOTS can be changed. \nIf an additional MATCH is played due to a tie, any 2 of the 3 ROBOTS may be played in the additional \nMATCH.  \nFIRST Tech Challenge teams play significantly more MATCHES at the FIRST \nChampionship than they do at most events, and there are significantly more \nteams at the event. Drafting a 3rd ROBOT provides each ALLIANCE with a built-in \nbackup ROBOT and flexibility to draft for different MATCH strategies in mind. \n15.4 FIRST Championship Pit Crews \nEach team on an ALLIANCE playing in the FIRST Championship Playoffs may have an additional 3 pit crew \nteam members inside the ARENA to assist with pre-MATCH strategy, ROBOT repair and maintenance, and \nother team support functions per T704. Additional pit crew members must stay in the pit areas of the ARENA. \nThe additional team members may be adults or STUDENTS. \n15.5 FIRST Championship Playoffs \nMore information about the FIRST Championship playoff tournament structure will \nbe released as part of a future Team Update."
+  }
+]
